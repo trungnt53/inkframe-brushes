@@ -6,7 +6,7 @@ for one-tap download inside the app. Every set keeps its original license; credi
 Converted files are adaptations of the originals and are distributed under the same license as each original set.
 For GPL sets, the original source files are included under `sources/`.
 
-**55 sets · 1563 brushes**
+**55 sets · 1561 brushes**
 
 | Set | Author | License | Brushes | Original |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ For GPL sets, the original source files are included under `sources/`.
 | AL Lineart | AureliaLeta | CC0 | 10 | https://krita-artists.org/t/aurelia-s-lineart-comic-bundle/115126 |
 | AL Painting | AureliaLeta | CC0 | 36 | https://krita-artists.org/t/al-painting-bundle/192439 |
 | AL Pencils | AureliaLeta | CC0 | 5 | https://krita-artists.org/t/aurelias-pencils-bundle/113614 |
-| Catherine's Basics | cOborski | CC0 | 8 | https://coborski.itch.io/catherines-basic-procreate-brushes |
+| Catherine's Basics | cOborski | CC0 | 6 | https://coborski.itch.io/catherines-basic-procreate-brushes |
 | Chaos & Evolutions | David Revoy | CC0 | 42 | https://davidrevoy.com/article29/free-brush-kit-for-chaos-and-evolutions/show |
 | Crayons | Ramon Miranda | CC0 | 10 | https://files.kde.org/krita/extras/ |
 | De Fer Settlements | K. M. Alexander | CC0 | 50 | https://kmalexander.com/tag/brushes/ |
