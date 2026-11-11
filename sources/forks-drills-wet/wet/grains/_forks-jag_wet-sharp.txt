@@ -1,0 +1,68 @@
+Forks | Wet Sharp
+These series was thought for the sharp strokes.
+
+Name: Forks | Wet Sharp 1 nocenter
+File: forks-jag-wet-sharp-nocente-1.gih
+Dimension: 64x64px
+Kind: dynamic brush gih[20(a)],
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 2 nocenter
+File: forks-jag-wet-sharp-nocenter-2.gih
+Dimension: 64x64px
+Kind: dynamic brush gih[5(p),4(r)],
+Spacing:
+
+Name: Forks | Wet Sharp 3 nocenter
+File: forks-jag-wet-sharp-nocenter-3.gih
+Dimension: 64x64px
+Kind: dynamic brush gih[20(p)],
+Spacing:
+
+Name: Forks | Wet Sharp 1.1
+File: forks-jag_wet-sharp-1.1.gbr
+Dimension: 128x128px
+Kind: dynamic brush, gbr, centred; wet brush static.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Flow Sharp 1.2
+File: forks-jag_wet-sharp-1.2.gih
+Dimension: 64x64px
+Kind: dynamic brush, gih[4(a)], centred; wet brush small
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 1.3
+File: forks-jag_wet-sharp-1.3.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[4(a)], centred; medium wet brush with a bit more tremor noise...
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Flow Sharp 1.4
+File: forks-jag_wet-sharp-1.4.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[(4(a),2(r))], centred; wet brush medium with more noise and small grains on the borders.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 1.5
+File: forks-jag_wet-sharp-1.5.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[4(a)], centred; medium wet brush more dark, the noise is more light and flow.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 1.6
+File: forks-jag_wet-sharp-1.6.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[(4(a),1(r))]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 1.7
+File: forks-jag_wet-sharp-1.7.gbr
+Dimension: 50x50px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 1.7
+File: forks-jag_wet-sharp-1.7.gbr
+Dimension: 64x64px
+Kind: static brush
+Spacing: between 2 and 10.

@@ -1,0 +1,50 @@
+Forks | Engraving Xilo Series
+This series has made to emulate some effects of the cutout in the Woodcut technique.
+
+Name: Forks | Engraving Xilo 1
+File: forks-jag-engraving-xilo-1.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a),3(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 1a
+File: forks-jag-engraving-xilo-1.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 2
+File: forks-jag-engraving-xilo-2.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a),3(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 2a
+File: forks-jag-engraving-xilo-2.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 3
+File: forks-jag-engraving-xilo-3.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a),3(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 3a
+File: forks-jag-engraving-xilo-3.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 4
+File: forks-jag-engraving-xilo-4.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a),3(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Engraving Xilo 4a
+File: forks-jag-engraving-xilo-4.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 10.

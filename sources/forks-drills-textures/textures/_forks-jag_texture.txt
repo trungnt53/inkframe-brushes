@@ -1,0 +1,62 @@
+Forks | Texture Series
+Brushes to make patterns or textures.
+
+Name: Forks | Texture Ball 1
+File: forks-jag_texture-ball-1.gih
+Dimension: 64x64px
+Kind: dynamic brush, gih[15(r)];
+
+Name: Forks | Texture Ball 2
+File: forks-jag_texture-ball-2.gih
+Dimension: 64x64px
+Kind: dynamic brush, gih[5(r); 3(a)];
+
+Name: Forks | Texture Ball 3
+File: forks-jag_texture-ball-3.gih
+Dimension: 64x64px
+Kind: dynamic brush, gih[3(a),52(r)];
+
+Name: Forks | Texture Canvas Noise 1
+File: forks-jag_texture-canvas-noise-1.gbr
+Dimension: 100x100px
+Kind: static brush
+
+Name: Forks | Texture Canvas Noise 2
+File: forks-jag_texture-canvas-noise-2.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(r)];
+
+Name: Forks | Texture Canvas Noise 3
+File: forks-jag_texture-canvas-noise-3.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[5(i),2(r)];
+
+Name: Forks | Texture Canvas Noise 4
+File: forks-jag_texture-canvas-noise-4.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[5(i),2(r)];
+
+Name: Forks | Texture Flower 1
+File: forks-jag_texture-flower-1.gbr
+Dimension: 512x512px
+Kind: static brush
+
+Name: Forks | Texture Flower 2
+File: forks-jag_texture-flower-2.gbr
+Dimension: 512x512px
+Kind: static brush
+
+Name: Forks | Texture Flower 3
+File: forks-jag_texture-flower-3.gbr
+Dimension: 512x512px
+Kind: static brush
+
+Name: Forks | Texture Flower 4
+File: forks-jag_texture-flower-4.gbr
+Dimension: 512x512px
+Kind: static brush
+
+Name: Forks | Texture Newsprint
+File: forks-jag_texture-newsprint.gbr
+Dimension: 150x150px
+Kind: static brush

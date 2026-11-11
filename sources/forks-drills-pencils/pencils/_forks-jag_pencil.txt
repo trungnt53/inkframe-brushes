@@ -1,0 +1,44 @@
+Forks | Pencil Series
+This series is dedicated to pencils, they are a complete series from to F to 6B. Is possible change the heavy of these brushes changing the spacing on-the-fly way.
+
+Name: Forks | Pencil 2B
+File: forks-jag_pencil-2B.gih
+Kind: dynamic brush, gih[12(r)]
+Dimension: 16x32px
+Spacing: 2 to 15.
+
+Name: Forks | Pencil 4B
+File: forks-jag_pencil-4B.gih
+Kind: dynamic brush, gih[12(r)]
+Dimension: 16x32px
+Spacing: 2 to 15.
+
+Name: Forks | Pencil 5B
+File: forks-jag_pencil-5B.gih
+Kind: dynamic brush, gih[12(r)]
+Dimension: 16x32px
+Spacing: 2 to 15.
+
+Name: Forks | Pencil 6B
+File: forks-jag_pencil-6B.gih
+Kind: dynamic brush, gih[12(r)]
+Dimension: 16x32px
+Spacing: 2 to 15.
+
+Name: Forks | Pencil B
+File: forks-jag_pencil-B.gih
+Kind: dynamic brush, gih[12(r)]
+Dimension: 16x32px
+Spacing: 2 to 15.
+
+Name: Forks | Pencil F
+File: forks-jag_pencil-F.gih
+Kind: dynamic brush, gih[10(r)]
+Dimension: 32x32px
+Spacing: 2 to 15.
+
+Name: Forks | Pencil H
+File: forks-jag_pencil-H.gih
+Kind: dynamic brush, gih[12(r)]
+Dimension: 16x32px
+Spacing: 2 to 15.

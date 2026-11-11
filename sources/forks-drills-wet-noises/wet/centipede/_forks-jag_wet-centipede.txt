@@ -1,0 +1,20 @@
+Forks | Sumie Series
+Studies of some flow aspects of the watercolor techniques.
+
+Name: Forks | Wet Centipede 1  [basic brush]
+File: forks-jag_wet-centipede-1.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[5(r)];
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Centipede 3  [basic brush]
+File: forks-jag_wet-centipede-3.gbr
+Dimension: 128x128px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Centipede 6  [basic brush]
+File: forks-jag_wet-centipede-6.gbr
+Dimension: 128x128px
+Kind: static brush
+Spacing: between 2 and 10.

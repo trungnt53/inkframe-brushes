@@ -1,0 +1,8 @@
+Forks | Wet Difuse Series
+This series are thougth for emulate the watercolor strokes with the small stains inner of the strokes.
+
+Name: Forks | Wet diffuse 1  [basic brush]
+File: forks-jag_wet-diffuse-1.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[2(r),2(v)]
+Spacing: between 2 and 15.

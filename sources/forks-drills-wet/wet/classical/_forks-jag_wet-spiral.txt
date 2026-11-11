@@ -1,0 +1,92 @@
+Forks | Wet Spiral
+This series are thougth for emulate the watercolor strokes with the pattern or texture as that of watercolor Shoeller paper.
+
+Name: Forks | Wet Spiral 0.1
+File: forks-jag_wet-spiral-0.1.gih
+Dimension: 100x100px, with 36 layers
+Kind: dynamic brush, gih[3(a),3(r),4(v)], centred; wet grains soft, precise but slow
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 0.2
+File: forks-jag_wet-spiral-0.2.gih
+Dimension: 100x100px, with 16 layers
+Kind: dynamic brush, gih[2(a),4(r),2(v)], centred; wet grains soft, more fast.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 0.3
+File: forks-jag_wet-spiral-0.3.gih
+Dimension: 100x100px, with 16 layers
+Kind: dynamic brush, gih[2(a),4(r),2(v)], centred; wet grains soft, more fast and random.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 1
+File: forks-jag_wet-spiral-1.0.gih
+Dimension: 100x100px, with 36 layers
+Kind: dynamic brush, gih[3(i),4(r),3(v)], centred; precise but slow.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 1.1
+File: forks-jag_wet-spiral-1-1.gih
+Dimension: 100x100px, with 16 layers
+Kind: dynamic brush, gih[2(i),4(r),2(v)], centred; fast
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 2
+File: forks-jag_wet-spiral-2.0.gih
+Dimension: 100x100px, with 36 layers
+Kind: dynamic brush, gih[3(a),4(i),3(v)], centred; the pattern is more visible...
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 2.1
+File: forks-jag_wet-spiral-2.1.gih
+Dimension: 100x100px, with 16 layers
+Kind: dynamic brush, gih[2(a),4(i),2(v)], centred; more fast
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 3
+File: forks-jag_wet-spiral-3.0.gih
+Dimension: 100x100px, with 36 layers
+Kind: dynamic brush, gih[3(a),4(i),3(v)], centred; sharpness, precise but slow.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 3.1
+File: forks-jag_wet-spiral-3.1.gih
+Dimension: 100x100px, with 16 layers
+Kind: dynamic brush, gih[4(a),2(i),2(v)], centred; sharpness, fast
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 4
+File: forks-jag_wet-spiral-4.gbr
+Dimension: 100x100px, Static
+Kind: Static brush, sharpness, fast
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 4a
+File: forks-jag_wet-spiral-4a.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 15.
+
+Name: Forks | Wet Spiral 5
+File: forks-jag_wet-spiral-5.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[36(r)];
+Spacing: between 2 and 15.
+
+Name: Forks | Wet Spiral 6
+File: forks-jag_wet-spiral-6.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[20(a)];
+Spacing: between 2 and 15.
+
+Name: Forks | Wet Spiral 7
+File: forks-jag_wet-spiral-7.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a),5(r)];
+Spacing: between 2 and 15.
+
+Name: Forks | Wet Spiral 8
+File: forks-jag_wet-spiral-8.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[20(r)];
+Spacing: between 2 and 15.

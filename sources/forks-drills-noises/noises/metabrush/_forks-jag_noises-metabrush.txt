@@ -1,0 +1,44 @@
+Forks | Noises Metabrush Series
+Noises for multiple use, backgrounds, textures or too for the simple brushes.
+
+Name: Forks | Noises 14 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a)2(v)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 15 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(r)2(v)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 16 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a)3(r)1(v)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 17 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a)3(r)1(v)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 18 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(a)3(r)1(v)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 19 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(i)2(r)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 20 Metabrush
+File: forks-jag_noises-14-metabrush.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[4(i)4(r)];
+Spacing: between 2 and 15.

@@ -1,0 +1,27 @@
+Forks | Noises Series
+Noises for multiple use, backgrounds, textures or too for the simple brushes.
+
+Name: Forks | Noises 1  [basic brush]
+File: forks-jag_noises-1.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(a)2(r)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 3  [basic brush]
+File: forks-jag_noises-3.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(a)2(r)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 10  [basic brush]
+File: forks-jag_noises-10.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(p),2(a),2(r)];
+Spacing: between 2 and 15.
+
+Name: Forks | Noises 13  [basic brush]
+File: forks-jag_noises-13.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[(4(v),3(r))];
+Spacing: between 2 and 15.
+

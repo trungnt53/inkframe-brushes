@@ -1,0 +1,50 @@
+Forks | Wet Classical
+These series was thought for the standard strokes for watecolor.
+
+Name: Forks | Wet Classical 1
+File: forks-jag-wet-classical-1.gbr
+Dimension: 64x64px
+Kind: static brush,
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 2
+File: forks-jag-wet-classical-2.gbr
+Dimension: 64x64px
+Kind: static brush,
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 3
+File: forks-jag-wet-classical-4.gbr
+Dimension: 100x100px
+Kind: dynamic brush, gih[5(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 4
+File: forks-jag-wet-classical-4.gbr
+Dimension: 100x100px
+Kind: dynamic brush, gih[3(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 5
+File: forks-jag-wet-classical-5.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[2(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 6
+File: forks-jag-wet-classical-6.gbr
+Dimension: 256x256px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 7
+File: forks-jag-wet-classical-7.gbr
+Dimension: 256x256px
+Kind: static brush
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Classical 8
+File: forks-jag-wet-classical-8.gih
+Dimension: 256x256px
+Kind: dynamic brush, gih[3(r)]
+Spacing: between 2 and 10.

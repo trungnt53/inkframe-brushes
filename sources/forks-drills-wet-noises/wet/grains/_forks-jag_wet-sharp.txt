@@ -1,0 +1,20 @@
+Forks | Wet Sharp
+These series was thought for the sharp strokes.
+
+Name: Forks | Wet Sharp 1.1 [basic brush]
+File: forks-jag_wet-sharp-1.1.gbr
+Dimension: 128x128px
+Kind: dynamic brush, gbr, centred; wet brush static.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Flow Sharp 1.4 [basic brush]
+File: forks-jag_wet-sharp-1.4.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[(4(a),2(r))], centred; wet brush medium with more noise and small grains on the borders.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Sharp 1.6 [basic brush]
+File: forks-jag_wet-sharp-1.6.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[(4(a),1(r))]
+Spacing: between 2 and 10.

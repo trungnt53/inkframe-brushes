@@ -1,0 +1,26 @@
+Forks | Wet Grain Series
+This series have brushes with small grain to emulate the wet flow.
+
+Name: Forks | Wet Grain 1 Soft
+File: forks-jag_wet-grain-1-soft.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(a),2(r),2(p)];
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Grain 2 Soft
+File: forks-jag_wet-grain-2-soft.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(a),2(r),2(p)];
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Grain 3 Sharp
+File: forks-jag_wet-grain-3-sharp.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(a),2(r),2(p)];
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Grain 4 Sharp
+File: forks-jag_wet-grain-4-sharp.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(a),2(r),2(p)];
+Spacing: between 2 and 10.

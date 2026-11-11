@@ -1,0 +1,26 @@
+Forks | Color Pencil Series
+This series is dedicated to color pencils, they are an aspect soft. Is possible change the heavy of these brushes changing the spacing on-the-fly way.
+
+Name: Forks | Color Pencil 1
+File: forks-jag_color-pencil-1.gih
+Kind: dynamic brush, gih[10(r)]
+Dimension: 32x32px
+Spacing: 2 to 15.
+
+Name: Forks | Color Pencil 2
+File: forks-jag_color-pencil-2.gih
+Kind: dynamic brush, gih[10(r)]
+Dimension: 32x32px
+Spacing: 2 to 15.
+
+Name: Forks | Color Pencil 3
+File: forks-jag_color-pencil-3.gih
+Kind: dynamic brush, gih[10(r)]
+Dimension: 32x32px
+Spacing: 2 to 15.
+
+Name: Forks | Color Pencil 4
+File: forks-jag_color-pencil-4.gih
+Kind: dynamic brush, gih[10(r)]
+Dimension: 32x32px
+Spacing: 2 to 15.

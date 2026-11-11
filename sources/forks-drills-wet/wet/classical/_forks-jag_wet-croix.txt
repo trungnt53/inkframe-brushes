@@ -1,0 +1,26 @@
+Forks | Wet Croix
+These series was thought for the standard strokes for watecolor, but with the paper texture in background. To use the texture it needs setting the opacity very low.
+
+Name: Forks | Wet Croix 1
+File: forks-jag-wet-croix-1.gih
+Dimension: 512x512px
+Kind: dynamic brush, gih[5(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Croix 2
+File: forks-jag-wet-croix-2.gih
+Dimension: 256x256px
+Kind: dynamic brush, gih[5(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Croix 3
+File: forks-jag-wet-croix-3.gih
+Dimension: 256x256px
+Kind: dynamic brush, gih[5(r)]
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Croix 4
+File: forks-jag-wet-croix-4.gih
+Dimension: 256x256px
+Kind: dynamic brush, gih[5(r)]
+Spacing: between 2 and 10.

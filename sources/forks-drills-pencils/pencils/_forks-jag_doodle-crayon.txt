@@ -1,0 +1,38 @@
+Forks | Doodle Crayon Series
+For Crayon, made in 2011
+
+Name: Forks | Doodle Crayon 1
+File: forks-jag_doodle-crayon-1.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 3 and 20.
+
+Name: Forks | Doodle Crayon 2
+File: forks-jag_doodle-crayon-2.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[(4(v),3(r))];
+Spacing:
+
+Name: Forks | Doodle Crayon 2a
+File: forks-jag_doodle-crayon-2.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 3 and 20.
+
+Name: Forks | Doodle Crayon 3
+File: forks-jag_doodle-crayon-3.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[(4(v),3(r))];
+Spacing: between 3 and 20.
+
+Name: Forks | Doodle Crayon 3a
+File: forks-jag_doodle-crayon-3.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 3 and 20.
+
+Name: Forks | Doodle Scrible
+File: forks-jag_doodle-scrible.gih
+Dimension: 64x64px
+Kind: dynamic brush, gih[12(r)]
+Spacing: between 3 and 20.

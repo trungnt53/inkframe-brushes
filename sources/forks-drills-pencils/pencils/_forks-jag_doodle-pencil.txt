@@ -1,0 +1,31 @@
+Doodle Series for pencils and scribles
+---
+Name: Forks | Doodle Pencil 1
+File: forks-jag_doodle-series-pencil-1.gih
+Dimension: 32x32px
+Kind: dynamic brush, gih[(10(a),2(r))]; pencil clear irregular (sketches)
+Spacing: it works fine between 3 and 10.
+
+Name: Forks | Doodle Pencil 2 (equal)
+File: forks-jag_doodle-series-pencil-2.gih
+Dimension: 32x32px
+Kind: dynamic brush, gih[(10(a),2(r))]; pencil dark irregular (sketches)
+Spacing: it works fine between 3 and 10.
+
+Name: Forks | Doodle Pencil 3
+File: forks-jag_doodle-series-pencil-3.gih
+Dimension: 64x64px
+Kind: dynamic brush, gih[(2(a),10(r))]; pencil dark irregular (sketches)
+Spacing: it works fine between 3 and 10.
+
+Name: Forks | Doodle Pencil 4
+File: forks-jag_doodle-series-pencil-4.gih
+Dimensions: 64x64px
+Kind: dynamic brush, gih[(2(r),10(v))]; pencil dark irregular (sketches)
+Spacing: it works fine between 3 and 10.
+
+Name: Forks | Doodle Scrible
+File: forks-jag_doodle-scrible.gih
+Dimensions: 64x64px
+Kind: dynamic brush, gih[12(r)];
+Spacing: it works fine between 3 and 20.

@@ -1,0 +1,31 @@
+Wet Creep Brushes
+This series was thought to emulate the noise of old brushes... but they've also the wet aspect in them flow.
+
+Name: Forks | Wet Creep
+File: forks-jag_wet-creep.gih
+Dimension: 64x64px, 12 layers
+Kind: dynamic brush, gih[12(a)], centred; scribles on strokes.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Creep 1
+File: forks-jag_wet-creep-1.gih
+Dimension: 64x64px, 12 layers
+Kind: dynamic brush, gih[3(a),4(r)], grains and some noise on borders.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Creep 2
+File: forks-jag_wet-creep-2.gih
+Dimension: 64x64px, 12 layers
+Kind: dynamic brush, gih[3(a),4(r)], grains and border noises, more clear.
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Creep Flat
+File: forks-jag_wet-creep-flat.gih
+Dimension: 64x64px, 12 layers
+Kind: dynamic brush, gih[4(v),3(r)], flat with border noises.
+Spacing: between 2 and 10.
+
+
+
+
+

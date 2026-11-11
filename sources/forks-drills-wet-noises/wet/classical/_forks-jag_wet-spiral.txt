@@ -1,0 +1,20 @@
+Forks | Wet Spiral
+This series are thougth for emulate the watercolor strokes with the pattern or texture as that of watercolor Shoeller paper.
+
+Name: Forks | Wet Spiral 0.1 [basic brush]
+File: forks-jag_wet-spiral-0.1.gih
+Dimension: 100x100px, with 36 layers
+Kind: dynamic brush, gih[3(a),3(r),4(v)], centred; wet grains soft, precise but slow
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 3.1 [basic brush]
+File: forks-jag_wet-spiral-3.1.gih
+Dimension: 100x100px, with 16 layers
+Kind: dynamic brush, gih[4(a),2(i),2(v)], centred; sharpness, fast
+Spacing: between 2 and 10.
+
+Name: Forks | Wet Spiral 8 [basic brush]
+File: forks-jag_wet-spiral-8.gih
+Dimension: 100x100px
+Kind: dynamic brush, gih[20(r)];
+Spacing: between 2 and 15.

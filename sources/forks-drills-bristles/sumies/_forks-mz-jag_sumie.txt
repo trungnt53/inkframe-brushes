@@ -1,0 +1,28 @@
+Forks | Sumie Series
+Studies for sumie brushes inspired on some Mozart brushes. They brushes still in progress...
+
+Name: Forks | Sumie 1
+File: forks-mz-jag_sumie-1.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[2(i)6(r)];
+Spacing: between 2 and 20.
+
+Name: Forks | Sumie 2
+File: forks-mz-jag_sumie-2.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[6(r)];
+Spacing: between 2 and 20.
+
+Name: Forks | Sumie 3
+File: forks-mz-jag_sumie-3.gih
+Dimension: 128x128px
+Kind: dynamic brush, gih[3(r)];
+Spacing: between 2 and 20.
+
+Name: Forks | Sumie 4
+File: forks-mz-jag_sumie-4.gih
+Dimension: 256x256px
+Kind: dynamic brush, gih[3(r)];
+Spacing: between 2 and 20.
+
+

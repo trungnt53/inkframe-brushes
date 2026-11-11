@@ -1,0 +1,32 @@
+Forks | Wet Blur
+These series was thought for brurred strokes.
+
+Name: Forks | Wet Blur
+File: forks-jag-wet-blur.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 5 and 10.
+
+Name: Forks | Wet Blur 1  (equal *)
+File: forks-jag_wet-blur-1.gih, decentred
+Dimension: 64x64px
+Kind: dynamic brush gih[4(r),v(5)], 20 layers
+Spacing: between 5 and 10.
+
+Name: Forks | Wet Blur 2  (equal *)
+File: forks-jag_wet-blur-2.gih, decentred
+Dimension: 64x64px
+Kind: dynamic brush gih[20(r)], 
+Spacing: between 5 and 10.
+
+Name: Forks | Wet Blur 3 (equal **)
+File: forks-jag_wet-blur-3.gih, decentred
+Dimension: 64x64px
+Kind: dynamic brush gih[20(p)], 
+Spacing: between 5 and 10.
+
+Name: Forks | Wet Blur 4 (equal **)
+File: forks-jag_wet-blur-4.gih, decentred
+Dimension: 64x64px
+Kind: dynamic brush gih[20(v)],
+Spacing: between 5 and 10.

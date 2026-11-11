@@ -1,0 +1,44 @@
+Forks | Bristle Brush Series
+For acrylic or oil, all brushes are an aspect of scrawled stroke, made in 2008.
+
+Name: Forks | Bristle Normal 1
+File: forks-jag_bristle-normal-1.gbr
+Dimension: 64x64px
+Kind: static brush
+Spacing: between 2 and 7.
+
+Name: Forks | Bristle Scrawled 1
+File: forks-jag_bristle-scrawled-1.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 7.
+
+Name: Forks | Bristle Scrawled 2
+File: forks-jag_bristle-scrawled-2.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 3 and 20.
+
+Name: Forks | Bristle Scrawled 3
+File: forks-jag_bristle-scrawled-3.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 7.
+
+Name: Forks | Bristle Scrawled 4
+File: forks-jag_bristle-scrawled-4.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 7.
+
+Name: Forks | Bristle Scrawled 5
+File: forks-jag_bristle-scrawled-5.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 7.
+
+Name: Forks | Bristle Scrawled 6
+File: forks-jag_bristle-scrawled-6.gbr
+Dimension: 100x100px
+Kind: static brush
+Spacing: between 2 and 7.
