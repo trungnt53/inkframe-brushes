@@ -1,9 +1,10 @@
 {
-  "packs" : [
+  "packs": [
     {
-      "author" : "rubberduck",
-      "brushCount" : 60,
-      "brushes" : [
+      "attribution": "rubberduck",
+      "author": "rubberduck",
+      "brushCount": 60,
+      "brushes": [
         "Bark",
         "Blocky",
         "Bubbles",
@@ -65,26 +66,29 @@
         "Wood Brush",
         "Wood Brush(2)"
       ],
-      "bytes" : 5426743,
-      "description" : "60 texture brushes from OpenGameArt: bark, cracks, bubbles, lava, stones and more for game art and backgrounds.",
-      "descriptionVi" : "60 brush texture từ OpenGameArt: vỏ cây, vết nứt, bong bóng, dung nham, đá… cho đồ hoạ game và phông nền.",
-      "file" : "packs/oga-60-gimp-krita.inkbrushset",
-      "id" : "oga-60-gimp-krita",
-      "license" : "CC0",
-      "name" : "60 Free Brushes",
-      "preview" : "previews/oga-60-gimp-krita.jpg",
-      "source" : "https://opengameart.org/content/60-free-gimp-krita-brushes",
-      "tags" : [
+      "bytes": 5426743,
+      "description": "60 texture brushes from OpenGameArt: bark, cracks, bubbles, lava, stones and more for game art and backgrounds.",
+      "descriptionVi": "60 brush texture từ OpenGameArt: vỏ cây, vết nứt, bong bóng, dung nham, đá… cho đồ hoạ game và phông nền.",
+      "file": "packs/oga-60-gimp-krita.inkbrushset",
+      "id": "oga-60-gimp-krita",
+      "license": "CC0",
+      "licenseSource": "https://opengameart.org/content/60-free-gimp-krita-brushes",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "60 Free Brushes",
+      "preview": "previews/oga-60-gimp-krita.jpg",
+      "source": "https://opengameart.org/content/60-free-gimp-krita-brushes",
+      "tags": [
         "texture",
         "nature",
         "game art"
       ],
-      "thumbnail" : "previews/oga-60-gimp-krita-thumb.jpg"
+      "thumbnail": "previews/oga-60-gimp-krita-thumb.jpg"
     },
     {
-      "author" : "AureliaLeta",
-      "brushCount" : 10,
-      "brushes" : [
+      "attribution": "AureliaLeta",
+      "author": "AureliaLeta",
+      "brushCount": 10,
+      "brushes": [
         "G Pen",
         "Ink Deep",
         "Ink Soft",
@@ -96,26 +100,29 @@
         "Scanner",
         "Tone Cutter"
       ],
-      "bytes" : 2276127,
-      "description" : "AureliaLeta's lineart and comic pens: soft and deep inks, G-pen, maru pen, kabura pen, liner, marker and scanner-style pens.",
-      "descriptionVi" : "Bút đi nét và vẽ truyện của AureliaLeta: mực mềm, mực đậm, G-pen, bút maru, bút kabura, bút liner, marker và bút kiểu bản scan.",
-      "file" : "packs/al-lineart.inkbrushset",
-      "id" : "al-lineart",
-      "license" : "CC0",
-      "name" : "AL Lineart",
-      "preview" : "previews/al-lineart.jpg",
-      "source" : "https://krita-artists.org/t/aurelia-s-lineart-comic-bundle/115126",
-      "tags" : [
+      "bytes": 2276127,
+      "description": "AureliaLeta's lineart and comic pens: soft and deep inks, G-pen, maru pen, kabura pen, liner, marker and scanner-style pens.",
+      "descriptionVi": "Bút đi nét và vẽ truyện của AureliaLeta: mực mềm, mực đậm, G-pen, bút maru, bút kabura, bút liner, marker và bút kiểu bản scan.",
+      "file": "packs/al-lineart.inkbrushset",
+      "id": "al-lineart",
+      "license": "CC0",
+      "licenseSource": "https://krita-artists.org/t/aurelia-s-lineart-comic-bundle/115126",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "AL Lineart",
+      "preview": "previews/al-lineart.jpg",
+      "source": "https://krita-artists.org/t/aurelia-s-lineart-comic-bundle/115126",
+      "tags": [
         "lineart",
         "comic",
         "ink"
       ],
-      "thumbnail" : "previews/al-lineart-thumb.jpg"
+      "thumbnail": "previews/al-lineart-thumb.jpg"
     },
     {
-      "author" : "AureliaLeta",
-      "brushCount" : 36,
-      "brushes" : [
+      "attribution": "AureliaLeta",
+      "author": "AureliaLeta",
+      "brushCount": 36,
+      "brushes": [
         "Basic AirBrush",
         "Basic Airbrush Hard",
         "Basic Flat",
@@ -153,75 +160,55 @@
         "Spray Scratches",
         "Triangle Chalk"
       ],
-      "bytes" : 4666127,
-      "description" : "AureliaLeta's painting set: textured blenders, airbrushes, round and textured painting brushes for rendering.",
-      "descriptionVi" : "Bộ vẽ sơn của AureliaLeta: brush hoà màu có texture, airbrush, brush tròn và brush texture để lên khối.",
-      "file" : "packs/al-painting.inkbrushset",
-      "id" : "al-painting",
-      "license" : "CC0",
-      "name" : "AL Painting",
-      "preview" : "previews/al-painting.jpg",
-      "source" : "https://krita-artists.org/t/al-painting-bundle/192439",
-      "tags" : [
+      "bytes": 4666127,
+      "description": "AureliaLeta's painting set: textured blenders, airbrushes, round and textured painting brushes for rendering.",
+      "descriptionVi": "Bộ vẽ sơn của AureliaLeta: brush hoà màu có texture, airbrush, brush tròn và brush texture để lên khối.",
+      "file": "packs/al-painting.inkbrushset",
+      "id": "al-painting",
+      "license": "CC0",
+      "licenseSource": "https://krita-artists.org/t/al-painting-bundle/192439",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "AL Painting",
+      "preview": "previews/al-painting.jpg",
+      "source": "https://krita-artists.org/t/al-painting-bundle/192439",
+      "tags": [
         "painting"
       ],
-      "thumbnail" : "previews/al-painting-thumb.jpg"
+      "thumbnail": "previews/al-painting-thumb.jpg"
     },
     {
-      "author" : "AureliaLeta",
-      "brushCount" : 5,
-      "brushes" : [
+      "attribution": "AureliaLeta",
+      "author": "AureliaLeta",
+      "brushCount": 5,
+      "brushes": [
         "Basic pencil",
         "Grain pencil",
         "Hard pencil",
         "Mechanical pencil",
         "Soft pencil"
       ],
-      "bytes" : 1230512,
-      "description" : "Five pencils by AureliaLeta — basic, mechanical, soft, hard and grainy — made with hand-crafted tips.",
-      "descriptionVi" : "Năm bút chì của AureliaLeta — cơ bản, bút chì kim, mềm, cứng và nhiều hạt — với đầu brush tự làm.",
-      "file" : "packs/al-pencils.inkbrushset",
-      "id" : "al-pencils",
-      "license" : "CC0",
-      "name" : "AL Pencils",
-      "preview" : "previews/al-pencils.jpg",
-      "source" : "https://krita-artists.org/t/aurelias-pencils-bundle/113614",
-      "tags" : [
+      "bytes": 1230512,
+      "description": "Five pencils by AureliaLeta — basic, mechanical, soft, hard and grainy — made with hand-crafted tips.",
+      "descriptionVi": "Năm bút chì của AureliaLeta — cơ bản, bút chì kim, mềm, cứng và nhiều hạt — với đầu brush tự làm.",
+      "file": "packs/al-pencils.inkbrushset",
+      "id": "al-pencils",
+      "license": "CC0",
+      "licenseSource": "https://krita-artists.org/t/aurelias-pencils-bundle/113614",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "AL Pencils",
+      "preview": "previews/al-pencils.jpg",
+      "source": "https://krita-artists.org/t/aurelias-pencils-bundle/113614",
+      "tags": [
         "pencil",
         "sketch"
       ],
-      "thumbnail" : "previews/al-pencils-thumb.jpg"
+      "thumbnail": "previews/al-pencils-thumb.jpg"
     },
     {
-      "author" : "cOborski",
-      "brushCount" : 6,
-      "brushes" : [
-        "Barely There",
-        "Basic 01",
-        "Fuzzy ink",
-        "Graphite ink",
-        "Teardrop Ink",
-        "Velvet int"
-      ],
-      "bytes" : 3795110,
-      "description" : "Catherine's basic Procreate inks: fuzzy, graphite, teardrop and velvet inks plus a barely-there sketch brush.",
-      "descriptionVi" : "Bộ mực cơ bản Procreate của Catherine: mực xù, mực chì, mực giọt nước, mực nhung và một brush phác thảo thật nhẹ.",
-      "file" : "packs/catherine-basics.inkbrushset",
-      "id" : "catherine-basics",
-      "license" : "CC0",
-      "name" : "Catherine's Basics",
-      "preview" : "previews/catherine-basics.jpg",
-      "source" : "https://coborski.itch.io/catherines-basic-procreate-brushes",
-      "tags" : [
-        "ink",
-        "sketch"
-      ],
-      "thumbnail" : "previews/catherine-basics-thumb.jpg"
-    },
-    {
-      "author" : "David Revoy",
-      "brushCount" : 42,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 42,
+      "brushes": [
         "Abstract texture 2",
         "Abstract-textured1",
         "B Braids",
@@ -265,26 +252,29 @@
         "Z- Test pressure",
         "ZZ END"
       ],
-      "bytes" : 1849331,
-      "description" : "David Revoy's concept-art kit from the Chaos&Evolutions DVD: dirty and eroded brushes, smoke, sparkles and Chinese-ink style tips for loose painting.",
-      "descriptionVi" : "Bộ brush concept art của David Revoy từ DVD Chaos&Evolutions: brush bẩn, mòn, khói, lấp lánh và đầu brush kiểu mực tàu cho lối vẽ phóng.",
-      "file" : "packs/deevad-chaos-evolutions.inkbrushset",
-      "id" : "deevad-chaos-evolutions",
-      "license" : "CC0",
-      "name" : "Chaos & Evolutions",
-      "preview" : "previews/deevad-chaos-evolutions.jpg",
-      "source" : "https://davidrevoy.com/article29/free-brush-kit-for-chaos-and-evolutions/show",
-      "tags" : [
+      "bytes": 1849331,
+      "description": "David Revoy's concept-art kit from the Chaos&Evolutions DVD: dirty and eroded brushes, smoke, sparkles and Chinese-ink style tips for loose painting.",
+      "descriptionVi": "Bộ brush concept art của David Revoy từ DVD Chaos&Evolutions: brush bẩn, mòn, khói, lấp lánh và đầu brush kiểu mực tàu cho lối vẽ phóng.",
+      "file": "packs/deevad-chaos-evolutions.inkbrushset",
+      "id": "deevad-chaos-evolutions",
+      "license": "CC BY 3.0",
+      "licenseSource": "https://www.davidrevoy.com/data/documents/chaos-and-evolutions-brush-kit.tar.gz",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "name": "Chaos & Evolutions",
+      "preview": "previews/deevad-chaos-evolutions.jpg",
+      "source": "https://davidrevoy.com/article29/free-brush-kit-for-chaos-and-evolutions/show",
+      "tags": [
         "painting",
         "texture",
         "concept art"
       ],
-      "thumbnail" : "previews/deevad-chaos-evolutions-thumb.jpg"
+      "thumbnail": "previews/deevad-chaos-evolutions-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 10,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 10,
+      "brushes": [
         "Crayon Basic",
         "Crayon BigArea FIller",
         "Crayon Blend-Smear",
@@ -296,25 +286,28 @@
         "Crayon Wax-Rounded",
         "Crayon Wax-SideBar"
       ],
-      "bytes" : 2605802,
-      "description" : "Wax crayons by Ramon Miranda: details, side strokes, big area fills, dust and fun textures — great for children's-book looks.",
-      "descriptionVi" : "Bút sáp của Ramon Miranda: nét chi tiết, nét ngang thân bút, tô mảng lớn, bụi sáp và texture vui — hợp phong cách sách thiếu nhi.",
-      "file" : "packs/ramon-crayons.inkbrushset",
-      "id" : "ramon-crayons",
-      "license" : "CC0",
-      "name" : "Crayons",
-      "preview" : "previews/ramon-crayons.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 2605802,
+      "description": "Wax crayons by Ramon Miranda: details, side strokes, big area fills, dust and fun textures — great for children's-book looks.",
+      "descriptionVi": "Bút sáp của Ramon Miranda: nét chi tiết, nét ngang thân bút, tô mảng lớn, bụi sáp và texture vui — hợp phong cách sách thiếu nhi.",
+      "file": "packs/ramon-crayons.inkbrushset",
+      "id": "ramon-crayons",
+      "license": "CC0",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Crayons",
+      "preview": "previews/ramon-crayons.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "crayon",
         "kids"
       ],
-      "thumbnail" : "previews/ramon-crayons-thumb.jpg"
+      "thumbnail": "previews/ramon-crayons-thumb.jpg"
     },
     {
-      "author" : "K. M. Alexander",
-      "brushCount" : 50,
-      "brushes" : [
+      "attribution": "K. M. Alexander",
+      "author": "K. M. Alexander",
+      "brushCount": 50,
+      "brushes": [
         "Big Tree 003",
         "Chapel 005",
         "Chapel 011",
@@ -366,25 +359,28 @@
         "Windmill 023",
         "Windmill 029"
       ],
-      "bytes" : 1306587,
-      "description" : "18th-century settlement stamps for fantasy maps: chapels, churches, barns, crosses and trees, by K. M. Alexander.",
-      "descriptionVi" : "Dấu làng mạc thế kỷ 18 cho bản đồ giả tưởng: nhà nguyện, nhà thờ, kho thóc, thánh giá và cây, của K. M. Alexander.",
-      "file" : "packs/kma-de-fer-settlement.inkbrushset",
-      "id" : "kma-de-fer-settlement",
-      "license" : "CC0",
-      "name" : "De Fer Settlements",
-      "preview" : "previews/kma-de-fer-settlement.jpg",
-      "source" : "https://kmalexander.com/tag/brushes/",
-      "tags" : [
+      "bytes": 1306587,
+      "description": "18th-century settlement stamps for fantasy maps: chapels, churches, barns, crosses and trees, by K. M. Alexander.",
+      "descriptionVi": "Dấu làng mạc thế kỷ 18 cho bản đồ giả tưởng: nhà nguyện, nhà thờ, kho thóc, thánh giá và cây, của K. M. Alexander.",
+      "file": "packs/kma-de-fer-settlement.inkbrushset",
+      "id": "kma-de-fer-settlement",
+      "license": "CC0",
+      "licenseSource": "https://kmalexander.com/tag/brushes/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "De Fer Settlements",
+      "preview": "previews/kma-de-fer-settlement.jpg",
+      "source": "https://kmalexander.com/tag/brushes/",
+      "tags": [
         "map",
         "buildings"
       ],
-      "thumbnail" : "previews/kma-de-fer-settlement-thumb.jpg"
+      "thumbnail": "previews/kma-de-fer-settlement-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 17,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 17,
+      "brushes": [
         "Basic Textured Flat",
         "Basic-5 Size plus",
         "Bristles-2 Flat Rough Textured",
@@ -403,25 +399,28 @@
         "Soft Rounded Slightly Textured",
         "Speedpainting Blocking Shape Textured"
       ],
-      "bytes" : 332444,
-      "description" : "A compact 2021 kit by David Revoy focused on expressive, textured flat brushes and rough bristles for painterly work.",
-      "descriptionVi" : "Bộ brush gọn năm 2021 của David Revoy, tập trung vào brush dẹt có texture và brush lông thô cho lối vẽ sơn phóng khoáng.",
-      "file" : "packs/deevad-2021.inkbrushset",
-      "id" : "deevad-2021",
-      "license" : "CC BY 4.0",
-      "name" : "Deevad 2021",
-      "preview" : "previews/deevad-2021.jpg",
-      "source" : "https://www.davidrevoy.com/article854/krita-brushes-2021-bundle",
-      "tags" : [
+      "bytes": 332444,
+      "description": "A compact 2021 kit by David Revoy focused on expressive, textured flat brushes and rough bristles for painterly work.",
+      "descriptionVi": "Bộ brush gọn năm 2021 của David Revoy, tập trung vào brush dẹt có texture và brush lông thô cho lối vẽ sơn phóng khoáng.",
+      "file": "packs/deevad-2021.inkbrushset",
+      "id": "deevad-2021",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://www.davidrevoy.com/article854/krita-brushes-2021-bundle",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "Deevad 2021",
+      "preview": "previews/deevad-2021.jpg",
+      "source": "https://www.davidrevoy.com/article854/krita-brushes-2021-bundle",
+      "tags": [
         "painting",
         "sketch"
       ],
-      "thumbnail" : "previews/deevad-2021-thumb.jpg"
+      "thumbnail": "previews/deevad-2021-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 34,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 34,
+      "brushes": [
         "Airbrush",
         "Basic Oval Brush",
         "Basic Size Fill Area",
@@ -457,26 +456,29 @@
         "Thin Brush Textured",
         "Wet Modeling"
       ],
-      "bytes" : 2764874,
-      "description" : "The 2023 edition of David Revoy's brush kit: a complete everyday set for sketching, inking and painting, with textured glazing brushes and blenders.",
-      "descriptionVi" : "Phiên bản 2023 của bộ brush David Revoy: đủ dùng hằng ngày cho phác thảo, đi nét và vẽ sơn, có brush láng màu nhiều texture và brush hoà màu.",
-      "file" : "packs/deevad-2023.inkbrushset",
-      "id" : "deevad-2023",
-      "license" : "CC0",
-      "name" : "Deevad 2023",
-      "preview" : "previews/deevad-2023.jpg",
-      "source" : "https://davidrevoy.com/article953/krita-brushes-2023-01-bundle",
-      "tags" : [
+      "bytes": 2764874,
+      "description": "The 2023 edition of David Revoy's brush kit: a complete everyday set for sketching, inking and painting, with textured glazing brushes and blenders.",
+      "descriptionVi": "Phiên bản 2023 của bộ brush David Revoy: đủ dùng hằng ngày cho phác thảo, đi nét và vẽ sơn, có brush láng màu nhiều texture và brush hoà màu.",
+      "file": "packs/deevad-2023.inkbrushset",
+      "id": "deevad-2023",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://davidrevoy.com/article953/krita-brushes-2023-01-bundle",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "Deevad 2023",
+      "preview": "previews/deevad-2023.jpg",
+      "source": "https://davidrevoy.com/article953/krita-brushes-2023-01-bundle",
+      "tags": [
         "painting",
         "sketch",
         "texture"
       ],
-      "thumbnail" : "previews/deevad-2023-thumb.jpg"
+      "thumbnail": "previews/deevad-2023-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 42,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 42,
+      "brushes": [
         "Airbrush",
         "Basic Oval Brush",
         "Basic Size Fill Area",
@@ -520,26 +522,29 @@
         "Water Edges",
         "Wet Modeling"
       ],
-      "bytes" : 3620932,
-      "description" : "David Revoy's latest Krita brush kit, used to paint the Pepper&Carrot webcomic. Pencils, thin inking brushes, glazing and bristle brushes for painting, blenders, plus texture, splatter and foliage brushes for backgrounds.",
-      "descriptionVi" : "Bộ brush Krita mới nhất của David Revoy, dùng để vẽ truyện tranh Pepper&Carrot. Có bút chì, brush viền mảnh, brush láng màu và brush lông để vẽ sơn, brush hoà màu, cùng brush texture, splatter và tán lá cho phông nền.",
-      "file" : "packs/deevad-2025.inkbrushset",
-      "id" : "deevad-2025",
-      "license" : "CC0",
-      "name" : "Deevad 2025",
-      "preview" : "previews/deevad-2025.jpg",
-      "source" : "https://davidrevoy.com/article1060/krita-brushes-2025-01-bundle",
-      "tags" : [
+      "bytes": 3620932,
+      "description": "David Revoy's latest Krita brush kit, used to paint the Pepper&Carrot webcomic. Pencils, thin inking brushes, glazing and bristle brushes for painting, blenders, plus texture, splatter and foliage brushes for backgrounds.",
+      "descriptionVi": "Bộ brush Krita mới nhất của David Revoy, dùng để vẽ truyện tranh Pepper&Carrot. Có bút chì, brush viền mảnh, brush láng màu và brush lông để vẽ sơn, brush hoà màu, cùng brush texture, splatter và tán lá cho phông nền.",
+      "file": "packs/deevad-2025.inkbrushset",
+      "id": "deevad-2025",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://davidrevoy.com/article1060/krita-brushes-2025-01-bundle",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "Deevad 2025",
+      "preview": "previews/deevad-2025.jpg",
+      "source": "https://davidrevoy.com/article1060/krita-brushes-2025-01-bundle",
+      "tags": [
         "painting",
         "sketch",
         "texture"
       ],
-      "thumbnail" : "previews/deevad-2025-thumb.jpg"
+      "thumbnail": "previews/deevad-2025-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 58,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 58,
+      "brushes": [
         "Adjust color",
         "Adjust dodge",
         "Adjust lighten",
@@ -599,26 +604,29 @@
         "Used old brush",
         "Watercolor"
       ],
-      "bytes" : 2074402,
-      "description" : "David Revoy's classic Brushkit v8: pencil sketching, G-pen and smooth inking, riggers, and a wide range of painting and texture brushes.",
-      "descriptionVi" : "Brushkit v8 kinh điển của David Revoy: bút chì phác thảo, bút G-pen và đi nét mượt, brush rigger, cùng nhiều brush vẽ sơn và texture.",
-      "file" : "packs/deevad-v8.inkbrushset",
-      "id" : "deevad-v8",
-      "license" : "CC BY 4.0",
-      "name" : "Deevad Brushkit v8",
-      "preview" : "previews/deevad-v8.jpg",
-      "source" : "https://github.com/Deevad/deevad-krita-brushpresets",
-      "tags" : [
+      "bytes": 2074402,
+      "description": "David Revoy's classic Brushkit v8: pencil sketching, G-pen and smooth inking, riggers, and a wide range of painting and texture brushes.",
+      "descriptionVi": "Brushkit v8 kinh điển của David Revoy: bút chì phác thảo, bút G-pen và đi nét mượt, brush rigger, cùng nhiều brush vẽ sơn và texture.",
+      "file": "packs/deevad-v8.inkbrushset",
+      "id": "deevad-v8",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://github.com/Deevad/deevad-krita-brushpresets#license",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "Deevad Brushkit v8",
+      "preview": "previews/deevad-v8.jpg",
+      "source": "https://github.com/Deevad/deevad-krita-brushpresets",
+      "tags": [
         "painting",
         "sketch",
         "ink"
       ],
-      "thumbnail" : "previews/deevad-v8-thumb.jpg"
+      "thumbnail": "previews/deevad-v8-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 7,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 7,
+      "brushes": [
         "Charcoal pencil large",
         "Charcoal pencil medium",
         "Charcoal pencil thin",
@@ -627,25 +635,28 @@
         "Flat-Paint-Brush with-variations",
         "Flat-Small-Brush for-solid-edges"
       ],
-      "bytes" : 372518,
-      "description" : "Charcoal pencils in three widths plus creamy and dry flat paint brushes for quick speedpaintings, by David Revoy.",
-      "descriptionVi" : "Bút chì than ba cỡ cùng brush dẹt kem và khô để vẽ nhanh (speedpaint), của David Revoy.",
-      "file" : "packs/deevad-charcoal.inkbrushset",
-      "id" : "deevad-charcoal",
-      "license" : "CC BY 4.0",
-      "name" : "Deevad Charcoal & Flat",
-      "preview" : "previews/deevad-charcoal.jpg",
-      "source" : "https://www.davidrevoy.com/article326/krita-brushes-charcoal-pencils",
-      "tags" : [
+      "bytes": 372518,
+      "description": "Charcoal pencils in three widths plus creamy and dry flat paint brushes for quick speedpaintings, by David Revoy.",
+      "descriptionVi": "Bút chì than ba cỡ cùng brush dẹt kem và khô để vẽ nhanh (speedpaint), của David Revoy.",
+      "file": "packs/deevad-charcoal.inkbrushset",
+      "id": "deevad-charcoal",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://www.davidrevoy.com/article326/krita-brushes-charcoal-pencils",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "Deevad Charcoal & Flat",
+      "preview": "previews/deevad-charcoal.jpg",
+      "source": "https://www.davidrevoy.com/article326/krita-brushes-charcoal-pencils",
+      "tags": [
         "charcoal",
         "painting"
       ],
-      "thumbnail" : "previews/deevad-charcoal-thumb.jpg"
+      "thumbnail": "previews/deevad-charcoal-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 25,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 25,
+      "brushes": [
         "Basic-5 Size-fill",
         "Bristles-gentle-rub",
         "Chalk-Soft update",
@@ -672,25 +683,28 @@
         "Super-soft-mechanical-pencil",
         "Texture Starfield-bitmap"
       ],
-      "bytes" : 531340,
-      "description" : "Extra presets David Revoy made for Krita 4: soft chalk, charcoal sketching, dry brushing, dashed lines and hard-painting brushes.",
-      "descriptionVi" : "Các brush bổ sung David Revoy làm cho Krita 4: phấn mềm, than phác thảo, cọ khô, nét đứt và brush vẽ sơn cứng.",
-      "file" : "packs/deevad-krita4-extras.inkbrushset",
-      "id" : "deevad-krita4-extras",
-      "license" : "CC BY 4.0",
-      "name" : "Deevad Krita 4 Extras",
-      "preview" : "previews/deevad-krita4-extras.jpg",
-      "source" : "https://www.davidrevoy.com/article742/krita-4-extras-brush-presets-pack",
-      "tags" : [
+      "bytes": 531340,
+      "description": "Extra presets David Revoy made for Krita 4: soft chalk, charcoal sketching, dry brushing, dashed lines and hard-painting brushes.",
+      "descriptionVi": "Các brush bổ sung David Revoy làm cho Krita 4: phấn mềm, than phác thảo, cọ khô, nét đứt và brush vẽ sơn cứng.",
+      "file": "packs/deevad-krita4-extras.inkbrushset",
+      "id": "deevad-krita4-extras",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://www.davidrevoy.com/article742/krita-4-extras-brush-presets-pack",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "Deevad Krita 4 Extras",
+      "preview": "previews/deevad-krita4-extras.jpg",
+      "source": "https://www.davidrevoy.com/article742/krita-4-extras-brush-presets-pack",
+      "tags": [
         "painting",
         "texture"
       ],
-      "thumbnail" : "previews/deevad-krita4-extras-thumb.jpg"
+      "thumbnail": "previews/deevad-krita4-extras-thumb.jpg"
     },
     {
-      "author" : "EyeOdin",
-      "brushCount" : 17,
-      "brushes" : [
+      "attribution": "EyeOdin",
+      "author": "EyeOdin",
+      "brushCount": 17,
+      "brushes": [
         "Color Smudge Array",
         "Color Smudge Blur",
         "Color Smudge Wet",
@@ -709,24 +723,27 @@
         "Quick Brush",
         "Tangent Normal"
       ],
-      "bytes" : 487925,
-      "description" : "EyeOdin's bundle: colour-smudge blenders and pixel brushes — airbrush, cloud, dissolve, ink and manga.",
-      "descriptionVi" : "Bộ của EyeOdin: brush miết màu và brush pixel — airbrush, mây, tan rã, mực và manga.",
-      "file" : "packs/eo-bundle.inkbrushset",
-      "id" : "eo-bundle",
-      "license" : "CC BY-SA",
-      "name" : "EO Bundle",
-      "preview" : "previews/eo-bundle.jpg",
-      "source" : "https://github.com/EyeOdin/eo_bundle",
-      "tags" : [
+      "bytes": 487925,
+      "description": "EyeOdin's bundle: colour-smudge blenders and pixel brushes — airbrush, cloud, dissolve, ink and manga.",
+      "descriptionVi": "Bộ của EyeOdin: brush miết màu và brush pixel — airbrush, mây, tan rã, mực và manga.",
+      "file": "packs/eo-bundle.inkbrushset",
+      "id": "eo-bundle",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/EyeOdin/eo_bundle/blob/main/LICENSE",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "EO Bundle",
+      "preview": "previews/eo-bundle.jpg",
+      "source": "https://github.com/EyeOdin/eo_bundle",
+      "tags": [
         "painting"
       ],
-      "thumbnail" : "previews/eo-bundle-thumb.jpg"
+      "thumbnail": "previews/eo-bundle-thumb.jpg"
     },
     {
-      "author" : "J. A. Gobbo, M. Couto",
-      "brushCount" : 19,
-      "brushes" : [
+      "attribution": "J. A. Gobbo, M. Couto",
+      "author": "J. A. Gobbo, M. Couto",
+      "brushCount": 19,
+      "brushes": [
         "Bristle Normal 1",
         "Bristle Scrawled 1",
         "Bristle Scrawled 2",
@@ -747,25 +764,28 @@
         "Sumie 3",
         "Sumie 4"
       ],
-      "bytes" : 580987,
-      "description" : "Forks & Drills bristles, sumi-e and woodcut (xilo) brushes for expressive ink and engraving looks.",
-      "descriptionVi" : "Brush lông, sumi-e và khắc gỗ (xilo) của Forks & Drills cho nét mực phóng khoáng và hiệu ứng tranh khắc.",
-      "file" : "packs/forks-drills-bristles.inkbrushset",
-      "id" : "forks-drills-bristles",
-      "license" : "GPL-3.0",
-      "name" : "Forks & Drills Bristles & Sumi",
-      "preview" : "previews/forks-drills-bristles.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 580987,
+      "description": "Forks & Drills bristles, sumi-e and woodcut (xilo) brushes for expressive ink and engraving looks.",
+      "descriptionVi": "Brush lông, sumi-e và khắc gỗ (xilo) của Forks & Drills cho nét mực phóng khoáng và hiệu ứng tranh khắc.",
+      "file": "packs/forks-drills-bristles.inkbrushset",
+      "id": "forks-drills-bristles",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Forks & Drills Bristles & Sumi",
+      "preview": "previews/forks-drills-bristles.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "paint",
         "ink"
       ],
-      "thumbnail" : "previews/forks-drills-bristles-thumb.jpg"
+      "thumbnail": "previews/forks-drills-bristles-thumb.jpg"
     },
     {
-      "author" : "J. A. Gobbo, M. Couto",
-      "brushCount" : 19,
-      "brushes" : [
+      "attribution": "J. A. Gobbo, M. Couto",
+      "author": "J. A. Gobbo, M. Couto",
+      "brushCount": 19,
+      "brushes": [
         "Noises 01",
         "Noises 02",
         "Noises 03",
@@ -786,24 +806,27 @@
         "Noises 19 Metabrush",
         "Noises 20 Metabrush"
       ],
-      "bytes" : 804017,
-      "description" : "Forks & Drills noise brushes: grainy textures for shading and breaking up flat colour.",
-      "descriptionVi" : "Brush nhiễu Forks & Drills: texture hạt để tô bóng và phá các mảng màu phẳng.",
-      "file" : "packs/forks-drills-noises.inkbrushset",
-      "id" : "forks-drills-noises",
-      "license" : "GPL-3.0",
-      "name" : "Forks & Drills Noises",
-      "preview" : "previews/forks-drills-noises.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 804017,
+      "description": "Forks & Drills noise brushes: grainy textures for shading and breaking up flat colour.",
+      "descriptionVi": "Brush nhiễu Forks & Drills: texture hạt để tô bóng và phá các mảng màu phẳng.",
+      "file": "packs/forks-drills-noises.inkbrushset",
+      "id": "forks-drills-noises",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Forks & Drills Noises",
+      "preview": "previews/forks-drills-noises.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "texture"
       ],
-      "thumbnail" : "previews/forks-drills-noises-thumb.jpg"
+      "thumbnail": "previews/forks-drills-noises-thumb.jpg"
     },
     {
-      "author" : "J. A. Gobbo, M. Couto",
-      "brushCount" : 21,
-      "brushes" : [
+      "attribution": "J. A. Gobbo, M. Couto",
+      "author": "J. A. Gobbo, M. Couto",
+      "brushCount": 21,
+      "brushes": [
         "Color Pencil 1",
         "Color Pencil 2",
         "Color Pencil 3",
@@ -826,25 +849,28 @@
         "Pencil F",
         "Pencil H"
       ],
-      "bytes" : 916576,
-      "description" : "Forks & Drills pencils: colour pencils and doodle crayons with natural grain, by J. A. Gobbo and Mozart Couto.",
-      "descriptionVi" : "Bút chì Forks & Drills: bút chì màu và bút sáp vẽ nghịch có hạt tự nhiên, của J. A. Gobbo và Mozart Couto.",
-      "file" : "packs/forks-drills-pencils.inkbrushset",
-      "id" : "forks-drills-pencils",
-      "license" : "GPL-3.0",
-      "name" : "Forks & Drills Pencils",
-      "preview" : "previews/forks-drills-pencils.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 916576,
+      "description": "Forks & Drills pencils: colour pencils and doodle crayons with natural grain, by J. A. Gobbo and Mozart Couto.",
+      "descriptionVi": "Bút chì Forks & Drills: bút chì màu và bút sáp vẽ nghịch có hạt tự nhiên, của J. A. Gobbo và Mozart Couto.",
+      "file": "packs/forks-drills-pencils.inkbrushset",
+      "id": "forks-drills-pencils",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Forks & Drills Pencils",
+      "preview": "previews/forks-drills-pencils.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "pencil",
         "sketch"
       ],
-      "thumbnail" : "previews/forks-drills-pencils-thumb.jpg"
+      "thumbnail": "previews/forks-drills-pencils-thumb.jpg"
     },
     {
-      "author" : "J. A. Gobbo, M. Couto",
-      "brushCount" : 15,
-      "brushes" : [
+      "attribution": "J. A. Gobbo, M. Couto",
+      "author": "J. A. Gobbo, M. Couto",
+      "brushCount": 15,
+      "brushes": [
         "Texture Ball 1",
         "Texture Ball 2",
         "Texture Ball 3",
@@ -861,24 +887,27 @@
         "Texture Newsprint",
         "Texture Newsprint 2"
       ],
-      "bytes" : 619956,
-      "description" : "Forks & Drills textures: canvas noise and texture balls for surface detail.",
-      "descriptionVi" : "Texture Forks & Drills: nhiễu vải canvas và các khối texture cho chi tiết bề mặt.",
-      "file" : "packs/forks-drills-textures.inkbrushset",
-      "id" : "forks-drills-textures",
-      "license" : "GPL-3.0",
-      "name" : "Forks & Drills Textures",
-      "preview" : "previews/forks-drills-textures.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 619956,
+      "description": "Forks & Drills textures: canvas noise and texture balls for surface detail.",
+      "descriptionVi": "Texture Forks & Drills: nhiễu vải canvas và các khối texture cho chi tiết bề mặt.",
+      "file": "packs/forks-drills-textures.inkbrushset",
+      "id": "forks-drills-textures",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Forks & Drills Textures",
+      "preview": "previews/forks-drills-textures.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "texture"
       ],
-      "thumbnail" : "previews/forks-drills-textures-thumb.jpg"
+      "thumbnail": "previews/forks-drills-textures-thumb.jpg"
     },
     {
-      "author" : "J. A. Gobbo, M. Couto",
-      "brushCount" : 58,
-      "brushes" : [
+      "attribution": "J. A. Gobbo, M. Couto",
+      "author": "J. A. Gobbo, M. Couto",
+      "brushCount": 58,
+      "brushes": [
         "Wet Blur",
         "Wet Blur 1",
         "Wet Blur 2",
@@ -938,25 +967,28 @@
         "Wet Spiral 6",
         "Wet Spiral 7"
       ],
-      "bytes" : 2872961,
-      "description" : "Forks & Drills wet media: watery blurs, 'centipede' bristles, diffuse and grainy wet strokes.",
-      "descriptionVi" : "Chất liệu ướt Forks & Drills: vệt nước nhoè, cọ lông 'con rết', nét ướt loang và có hạt.",
-      "file" : "packs/forks-drills-wet.inkbrushset",
-      "id" : "forks-drills-wet",
-      "license" : "GPL-3.0",
-      "name" : "Forks & Drills Wet",
-      "preview" : "previews/forks-drills-wet.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 2872961,
+      "description": "Forks & Drills wet media: watery blurs, 'centipede' bristles, diffuse and grainy wet strokes.",
+      "descriptionVi": "Chất liệu ướt Forks & Drills: vệt nước nhoè, cọ lông 'con rết', nét ướt loang và có hạt.",
+      "file": "packs/forks-drills-wet.inkbrushset",
+      "id": "forks-drills-wet",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Forks & Drills Wet",
+      "preview": "previews/forks-drills-wet.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "paint",
         "watercolor"
       ],
-      "thumbnail" : "previews/forks-drills-wet-thumb.jpg"
+      "thumbnail": "previews/forks-drills-wet-thumb.jpg"
     },
     {
-      "author" : "J. A. Gobbo, M. Couto",
-      "brushCount" : 28,
-      "brushes" : [
+      "attribution": "J. A. Gobbo, M. Couto",
+      "author": "J. A. Gobbo, M. Couto",
+      "brushCount": 28,
+      "brushes": [
         "Noises 01",
         "Noises 03",
         "Noises 10",
@@ -986,25 +1018,28 @@
         "Wet Spiral 3.1",
         "Wet Spiral 8"
       ],
-      "bytes" : 1330917,
-      "description" : "Forks & Drills wet + noise mix: wet blurs combined with grainy noise for watercolour-like texture.",
-      "descriptionVi" : "Bộ ướt + nhiễu Forks & Drills: vệt nước nhoè kết hợp nhiễu hạt cho texture giống màu nước.",
-      "file" : "packs/forks-drills-wet-noises.inkbrushset",
-      "id" : "forks-drills-wet-noises",
-      "license" : "GPL-3.0",
-      "name" : "Forks & Drills Wet Noises",
-      "preview" : "previews/forks-drills-wet-noises.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 1330917,
+      "description": "Forks & Drills wet + noise mix: wet blurs combined with grainy noise for watercolour-like texture.",
+      "descriptionVi": "Bộ ướt + nhiễu Forks & Drills: vệt nước nhoè kết hợp nhiễu hạt cho texture giống màu nước.",
+      "file": "packs/forks-drills-wet-noises.inkbrushset",
+      "id": "forks-drills-wet-noises",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Forks & Drills Wet Noises",
+      "preview": "previews/forks-drills-wet-noises.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "paint",
         "texture"
       ],
-      "thumbnail" : "previews/forks-drills-wet-noises-thumb.jpg"
+      "thumbnail": "previews/forks-drills-wet-noises-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 6,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 6,
+      "brushes": [
         "Airbrush Base",
         "Particles Energy",
         "Particles Energy Big Trail",
@@ -1012,24 +1047,27 @@
         "Shapes Grid Lights",
         "Texture Rocks (Addition)"
       ],
-      "bytes" : 540745,
-      "description" : "Effect brushes by Ramon Miranda: glowing particle trails, light grids, screentone moiré and rock textures.",
-      "descriptionVi" : "Brush hiệu ứng của Ramon Miranda: vệt hạt phát sáng, lưới ánh sáng, screentone moiré và texture đá.",
-      "file" : "packs/ramon-fx.inkbrushset",
-      "id" : "ramon-fx",
-      "license" : "CC0",
-      "name" : "FX Brushes",
-      "preview" : "previews/ramon-fx.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 540745,
+      "description": "Effect brushes by Ramon Miranda: glowing particle trails, light grids, screentone moiré and rock textures.",
+      "descriptionVi": "Brush hiệu ứng của Ramon Miranda: vệt hạt phát sáng, lưới ánh sáng, screentone moiré và texture đá.",
+      "file": "packs/ramon-fx.inkbrushset",
+      "id": "ramon-fx",
+      "license": "CC0",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "FX Brushes",
+      "preview": "previews/ramon-fx.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "effects"
       ],
-      "thumbnail" : "previews/ramon-fx-thumb.jpg"
+      "thumbnail": "previews/ramon-fx-thumb.jpg"
     },
     {
-      "author" : "GIMP project",
-      "brushCount" : 37,
-      "brushes" : [
+      "attribution": "GIMP project",
+      "author": "GIMP project",
+      "brushCount": 37,
+      "brushes": [
         "Bird",
         "Circle Fuzzy (76)",
         "Cloth",
@@ -1068,25 +1106,28 @@
         "Tulip Print",
         "Waves"
       ],
-      "bytes" : 1319326,
-      "description" : "The GIMP project's extra brushes: fuzzy circles, cloth, grid, animals and other classic stamp tips.",
-      "descriptionVi" : "Brush bổ sung của dự án GIMP: tròn mờ, vải, lưới, con vật và các đầu dấu kinh điển khác.",
-      "file" : "packs/gimp-extras.inkbrushset",
-      "id" : "gimp-extras",
-      "license" : "GPL-3.0",
-      "name" : "GIMP Extras",
-      "preview" : "previews/gimp-extras.jpg",
-      "source" : "https://download.gimp.org/pub/gimp/extras/",
-      "tags" : [
+      "bytes": 1319326,
+      "description": "The GIMP project's extra brushes: fuzzy circles, cloth, grid, animals and other classic stamp tips.",
+      "descriptionVi": "Brush bổ sung của dự án GIMP: tròn mờ, vải, lưới, con vật và các đầu dấu kinh điển khác.",
+      "file": "packs/gimp-extras.inkbrushset",
+      "id": "gimp-extras",
+      "license": "GPL-3.0",
+      "licenseSource": "https://download.gimp.org/pub/gimp/extras/",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "GIMP Extras",
+      "preview": "previews/gimp-extras.jpg",
+      "source": "https://download.gimp.org/pub/gimp/extras/",
+      "tags": [
         "texture",
         "shapes"
       ],
-      "thumbnail" : "previews/gimp-extras-thumb.jpg"
+      "thumbnail": "previews/gimp-extras-thumb.jpg"
     },
     {
-      "author" : "Dino0040",
-      "brushCount" : 60,
-      "brushes" : [
+      "attribution": "Dino0040",
+      "author": "Dino0040",
+      "brushCount": 60,
+      "brushes": [
         "Grunge Strokes & Splatters 1",
         "Grunge Strokes & Splatters 2",
         "Grunge Strokes & Splatters 3",
@@ -1148,26 +1189,29 @@
         "Grunge Strokes & Splatters 59",
         "Grunge Strokes & Splatters 60"
       ],
-      "bytes" : 5527705,
-      "description" : "Scanned grunge brushstrokes and splatters (CC0) — rough real-media marks to stamp texture into your art.",
-      "descriptionVi" : "Nét cọ grunge và vết vẩy được scan từ thật (CC0) — dấu vết chất liệu thô để dập texture vào tranh.",
-      "file" : "packs/oga-grunge-strokes.inkbrushset",
-      "id" : "oga-grunge-strokes",
-      "license" : "CC0",
-      "name" : "Grunge Strokes & Splatters",
-      "preview" : "previews/oga-grunge-strokes.jpg",
-      "source" : "https://opengameart.org/content/100-grunge-brushstrokes-and-splatters-set",
-      "tags" : [
+      "bytes": 5527705,
+      "description": "Scanned grunge brushstrokes and splatters (CC0) — rough real-media marks to stamp texture into your art.",
+      "descriptionVi": "Nét cọ grunge và vết vẩy được scan từ thật (CC0) — dấu vết chất liệu thô để dập texture vào tranh.",
+      "file": "packs/oga-grunge-strokes.inkbrushset",
+      "id": "oga-grunge-strokes",
+      "license": "CC0",
+      "licenseSource": "https://opengameart.org/content/100-grunge-brushstrokes-and-splatters-set",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Grunge Strokes & Splatters",
+      "preview": "previews/oga-grunge-strokes.jpg",
+      "source": "https://opengameart.org/content/100-grunge-brushstrokes-and-splatters-set",
+      "tags": [
         "grunge",
         "splatter",
         "texture"
       ],
-      "thumbnail" : "previews/oga-grunge-strokes-thumb.jpg"
+      "thumbnail": "previews/oga-grunge-strokes-thumb.jpg"
     },
     {
-      "author" : "myPhotoshopBrushes",
-      "brushCount" : 12,
-      "brushes" : [
+      "attribution": "myPhotoshopBrushes",
+      "author": "myPhotoshopBrushes",
+      "brushCount": 12,
+      "brushes": [
         "Broken Plaster Full",
         "Broken Plaster Patch",
         "Dense Paint Flakes",
@@ -1181,25 +1225,28 @@
         "Weathered Plaster Edge",
         "Worn Plaster"
       ],
-      "bytes" : 5680212,
-      "description" : "Wall grunge stamps: broken plaster, peeling paint, paint flakes and cracks.",
-      "descriptionVi" : "Dấu tường grunge: vữa vỡ, sơn bong tróc, vảy sơn và vết nứt.",
-      "file" : "packs/mpb-grunge-wall.inkbrushset",
-      "id" : "mpb-grunge-wall",
-      "license" : "CC BY-SA 3.0",
-      "name" : "Grunge Wall",
-      "preview" : "previews/mpb-grunge-wall.jpg",
-      "source" : "https://myphotoshopbrushes.com/resources/4254/grunge-wall-procreate-brushes",
-      "tags" : [
+      "bytes": 5680212,
+      "description": "Wall grunge stamps: broken plaster, peeling paint, paint flakes and cracks.",
+      "descriptionVi": "Dấu tường grunge: vữa vỡ, sơn bong tróc, vảy sơn và vết nứt.",
+      "file": "packs/mpb-grunge-wall.inkbrushset",
+      "id": "mpb-grunge-wall",
+      "license": "CC BY-SA 3.0",
+      "licenseSource": "https://myphotoshopbrushes.com/resources/4254/grunge-wall-procreate-brushes",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "name": "Grunge Wall",
+      "preview": "previews/mpb-grunge-wall.jpg",
+      "source": "https://myphotoshopbrushes.com/resources/4254/grunge-wall-procreate-brushes",
+      "tags": [
         "grunge",
         "texture"
       ],
-      "thumbnail" : "previews/mpb-grunge-wall-thumb.jpg"
+      "thumbnail": "previews/mpb-grunge-wall-thumb.jpg"
     },
     {
-      "author" : "K. M. Alexander",
-      "brushCount" : 50,
-      "brushes" : [
+      "attribution": "K. M. Alexander",
+      "author": "K. M. Alexander",
+      "brushCount": 50,
+      "brushes": [
         "4 Fathoms Sounding Mark",
         "16 Fathoms Sounding Mark",
         "Anchorage 002",
@@ -1251,26 +1298,29 @@
         "Unit 014",
         "Unit 023"
       ],
-      "bytes" : 1434885,
-      "description" : "18th-century cartography stamps after Homann: compass roses, anchorages, soundings and fields, by K. M. Alexander.",
-      "descriptionVi" : "Dấu bản đồ thế kỷ 18 theo phong cách Homann: hoa gió, bến neo, ký hiệu độ sâu và ruộng, của K. M. Alexander.",
-      "file" : "packs/kma-homann.inkbrushset",
-      "id" : "kma-homann",
-      "license" : "CC0",
-      "name" : "Homann Cartography",
-      "preview" : "previews/kma-homann.jpg",
-      "source" : "https://kmalexander.com/tag/brushes/",
-      "tags" : [
+      "bytes": 1434885,
+      "description": "18th-century cartography stamps after Homann: compass roses, anchorages, soundings and fields, by K. M. Alexander.",
+      "descriptionVi": "Dấu bản đồ thế kỷ 18 theo phong cách Homann: hoa gió, bến neo, ký hiệu độ sâu và ruộng, của K. M. Alexander.",
+      "file": "packs/kma-homann.inkbrushset",
+      "id": "kma-homann",
+      "license": "CC0",
+      "licenseSource": "https://kmalexander.com/tag/brushes/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Homann Cartography",
+      "preview": "previews/kma-homann.jpg",
+      "source": "https://kmalexander.com/tag/brushes/",
+      "tags": [
         "map",
         "trees",
         "mountains"
       ],
-      "thumbnail" : "previews/kma-homann-thumb.jpg"
+      "thumbnail": "previews/kma-homann-thumb.jpg"
     },
     {
-      "author" : "K. M. Alexander",
-      "brushCount" : 50,
-      "brushes" : [
+      "attribution": "K. M. Alexander",
+      "author": "K. M. Alexander",
+      "brushCount": 50,
+      "brushes": [
         "Bridge",
         "Church 003",
         "City",
@@ -1322,25 +1372,28 @@
         "Village 013",
         "Village 017"
       ],
-      "bytes" : 1380685,
-      "description" : "K. M. Alexander's 19th-century mountain stamps for fantasy maps, with towns and bridges.",
-      "descriptionVi" : "Dấu núi thế kỷ 19 của K. M. Alexander cho bản đồ giả tưởng, kèm thị trấn và cây cầu.",
-      "file" : "packs/kma-hyacinth-mountains.inkbrushset",
-      "id" : "kma-hyacinth-mountains",
-      "license" : "CC0",
-      "name" : "Hyacinth Mountains",
-      "preview" : "previews/kma-hyacinth-mountains.jpg",
-      "source" : "https://kmalexander.com/tag/brushes/",
-      "tags" : [
+      "bytes": 1380685,
+      "description": "K. M. Alexander's 19th-century mountain stamps for fantasy maps, with towns and bridges.",
+      "descriptionVi": "Dấu núi thế kỷ 19 của K. M. Alexander cho bản đồ giả tưởng, kèm thị trấn và cây cầu.",
+      "file": "packs/kma-hyacinth-mountains.inkbrushset",
+      "id": "kma-hyacinth-mountains",
+      "license": "CC0",
+      "licenseSource": "https://kmalexander.com/tag/brushes/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Hyacinth Mountains",
+      "preview": "previews/kma-hyacinth-mountains.jpg",
+      "source": "https://kmalexander.com/tag/brushes/",
+      "tags": [
         "map",
         "mountains"
       ],
-      "thumbnail" : "previews/kma-hyacinth-mountains-thumb.jpg"
+      "thumbnail": "previews/kma-hyacinth-mountains-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 8,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 8,
+      "brushes": [
         "Texture Impressionism 01 Accurate",
         "Texture Impressionism 02 Masked",
         "Texture Impressionism 03 MaskedBig",
@@ -1350,25 +1403,28 @@
         "Texture Impressionism 07 Wet Blend",
         "Texture Impressionism 08 Wet Blend-Big"
       ],
-      "bytes" : 581949,
-      "description" : "Impressionism texture brushes by Ramon Miranda for broken, dabbed colour in the style of plein-air painting.",
-      "descriptionVi" : "Brush texture ấn tượng của Ramon Miranda, cho các mảng màu chấm, vỡ kiểu tranh vẽ ngoài trời.",
-      "file" : "packs/ramon-impression.inkbrushset",
-      "id" : "ramon-impression",
-      "license" : "CC0",
-      "name" : "Impression",
-      "preview" : "previews/ramon-impression.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 581949,
+      "description": "Impressionism texture brushes by Ramon Miranda for broken, dabbed colour in the style of plein-air painting.",
+      "descriptionVi": "Brush texture ấn tượng của Ramon Miranda, cho các mảng màu chấm, vỡ kiểu tranh vẽ ngoài trời.",
+      "file": "packs/ramon-impression.inkbrushset",
+      "id": "ramon-impression",
+      "license": "CC0",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Impression",
+      "preview": "previews/ramon-impression.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "painting",
         "impressionism"
       ],
-      "thumbnail" : "previews/ramon-impression-thumb.jpg"
+      "thumbnail": "previews/ramon-impression-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 23,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 23,
+      "brushes": [
         "Big Fudepen",
         "Blender Water",
         "Blobs",
@@ -1393,25 +1449,28 @@
         "Thin Brush Comic",
         "Worn Out GPen"
       ],
-      "bytes" : 5260649,
-      "description" : "Ink Pro Artist by Ramon Miranda: G-pens, dip pens of several sizes, diluted ink, blobs and burnt textures for comics and illustration.",
-      "descriptionVi" : "Ink Pro Artist của Ramon Miranda: bút G-pen, bút chấm mực nhiều cỡ, mực pha loãng, vệt mực và texture cháy cho truyện tranh và minh hoạ.",
-      "file" : "packs/ramon-ink-pro.inkbrushset",
-      "id" : "ramon-ink-pro",
-      "license" : "CC0",
-      "name" : "Ink Pro Artist",
-      "preview" : "previews/ramon-ink-pro.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 5260649,
+      "description": "Ink Pro Artist by Ramon Miranda: G-pens, dip pens of several sizes, diluted ink, blobs and burnt textures for comics and illustration.",
+      "descriptionVi": "Ink Pro Artist của Ramon Miranda: bút G-pen, bút chấm mực nhiều cỡ, mực pha loãng, vệt mực và texture cháy cho truyện tranh và minh hoạ.",
+      "file": "packs/ramon-ink-pro.inkbrushset",
+      "id": "ramon-ink-pro",
+      "license": "CC0",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Ink Pro Artist",
+      "preview": "previews/ramon-ink-pro.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "ink",
         "comic"
       ],
-      "thumbnail" : "previews/ramon-ink-pro-thumb.jpg"
+      "thumbnail": "previews/ramon-ink-pro-thumb.jpg"
     },
     {
-      "author" : "myPhotoshopBrushes",
-      "brushCount" : 22,
-      "brushes" : [
+      "attribution": "myPhotoshopBrushes",
+      "author": "myPhotoshopBrushes",
+      "brushCount": 22,
+      "brushes": [
         "Broad Bent Stroke",
         "Curved Bristle Drag",
         "Dense Curved Stroke",
@@ -1435,24 +1494,27 @@
         "Wispy Swoosh",
         "Zigzag Brush Stroke"
       ],
-      "bytes" : 7080711,
-      "description" : "Big expressive ink strokes: bristle drags, bent and looped sweeps, parallel arcs.",
-      "descriptionVi" : "Nét mực lớn phóng khoáng: vệt cọ kéo, nét quét cong và vòng, các cung song song.",
-      "file" : "packs/mpb-ink-stroke.inkbrushset",
-      "id" : "mpb-ink-stroke",
-      "license" : "CC BY-SA 3.0",
-      "name" : "Ink Strokes",
-      "preview" : "previews/mpb-ink-stroke.jpg",
-      "source" : "https://myphotoshopbrushes.com/resources/4255/ink-stroke-procreate-brushes",
-      "tags" : [
+      "bytes": 7080711,
+      "description": "Big expressive ink strokes: bristle drags, bent and looped sweeps, parallel arcs.",
+      "descriptionVi": "Nét mực lớn phóng khoáng: vệt cọ kéo, nét quét cong và vòng, các cung song song.",
+      "file": "packs/mpb-ink-stroke.inkbrushset",
+      "id": "mpb-ink-stroke",
+      "license": "CC BY-SA 3.0",
+      "licenseSource": "https://myphotoshopbrushes.com/resources/4255/ink-stroke-procreate-brushes",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "name": "Ink Strokes",
+      "preview": "previews/mpb-ink-stroke.jpg",
+      "source": "https://myphotoshopbrushes.com/resources/4255/ink-stroke-procreate-brushes",
+      "tags": [
         "ink"
       ],
-      "thumbnail" : "previews/mpb-ink-stroke-thumb.jpg"
+      "thumbnail": "previews/mpb-ink-stroke-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 16,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 16,
+      "brushes": [
         "Texture Big Shapes",
         "Texture Cross Hatching",
         "Texture Damaged",
@@ -1470,24 +1532,27 @@
         "Texture Splats Random",
         "Textured Interlocking"
       ],
-      "bytes" : 1230451,
-      "description" : "InkT by Ramon Miranda: textured ink stamps — powder, splats, damaged and grungy dots — to add character to ink drawings.",
-      "descriptionVi" : "InkT của Ramon Miranda: các dấu mực có texture — bột, vẩy mực, vết hỏng và chấm grunge — tạo chất cho bản vẽ mực.",
-      "file" : "packs/ramon-inkt.inkbrushset",
-      "id" : "ramon-inkt",
-      "license" : "CC0",
-      "name" : "InkT",
-      "preview" : "previews/ramon-inkt.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 1230451,
+      "description": "InkT by Ramon Miranda: textured ink stamps — powder, splats, damaged and grungy dots — to add character to ink drawings.",
+      "descriptionVi": "InkT của Ramon Miranda: các dấu mực có texture — bột, vẩy mực, vết hỏng và chấm grunge — tạo chất cho bản vẽ mực.",
+      "file": "packs/ramon-inkt.inkbrushset",
+      "id": "ramon-inkt",
+      "license": "CC0",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "InkT",
+      "preview": "previews/ramon-inkt.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "ink"
       ],
-      "thumbnail" : "previews/ramon-inkt-thumb.jpg"
+      "thumbnail": "previews/ramon-inkt-thumb.jpg"
     },
     {
-      "author" : "Krita contributors (Deevad, Ramon Miranda…)",
-      "brushCount" : 107,
-      "brushes" : [
+      "attribution": "Krita contributors (Deevad, Ramon Miranda…)",
+      "author": "Krita contributors (Deevad, Ramon Miranda…)",
+      "brushCount": 107,
+      "brushes": [
         "Adjust Color",
         "Adjust Dodge",
         "Adjust Lighten",
@@ -1596,27 +1661,30 @@
         "Wet Smear",
         "Wet Textured Soft"
       ],
-      "bytes" : 5489075,
-      "description" : "Krita's own essential brush set (CC0): basic pencils and inks, airbrushes, blenders, pixel art, screentones, textures and colour-adjusting brushes.",
-      "descriptionVi" : "Bộ brush cơ bản của chính Krita (CC0): bút chì, bút mực, airbrush, brush hoà màu, pixel art, screentone, texture và brush chỉnh màu.",
-      "file" : "packs/krita-4-default.inkbrushset",
-      "id" : "krita-4-default",
-      "license" : "CC0",
-      "name" : "Krita Essentials",
-      "preview" : "previews/krita-4-default.jpg",
-      "source" : "https://invent.kde.org/graphics/krita/-/tree/master/krita/data/bundles",
-      "tags" : [
+      "bytes": 5489075,
+      "description": "Krita's own essential brush set (CC0): basic pencils and inks, airbrushes, blenders, pixel art, screentones, textures and colour-adjusting brushes.",
+      "descriptionVi": "Bộ brush cơ bản của chính Krita (CC0): bút chì, bút mực, airbrush, brush hoà màu, pixel art, screentone, texture và brush chỉnh màu.",
+      "file": "packs/krita-4-default.inkbrushset",
+      "id": "krita-4-default",
+      "license": "CC0",
+      "licenseSource": "https://invent.kde.org/graphics/krita/-/raw/master/krita/data/bundles/Krita_4_Default_Resources.bundle",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Krita Essentials",
+      "preview": "previews/krita-4-default.jpg",
+      "source": "https://invent.kde.org/graphics/krita/-/tree/master/krita/data/bundles",
+      "tags": [
         "painting",
         "sketch",
         "ink",
         "texture"
       ],
-      "thumbnail" : "previews/krita-4-default-thumb.jpg"
+      "thumbnail": "previews/krita-4-default-thumb.jpg"
     },
     {
-      "author" : "Juankprada",
-      "brushCount" : 12,
-      "brushes" : [
+      "attribution": "Juankprada",
+      "author": "Juankprada",
+      "brushCount": 12,
+      "brushes": [
         "Hand-drawn Crosshatch",
         "Kakeami - 1 Kake",
         "Kakeami - 2 Kake",
@@ -1630,26 +1698,29 @@
         "Shoujo Bokeh",
         "Tone Scrapping"
       ],
-      "bytes" : 879108,
-      "description" : "Manga tools by Juankprada: a real G-pen, kakeami hatching, rope and mood crosshatch, and spray tone.",
-      "descriptionVi" : "Bộ dụng cụ manga của Juankprada: bút G-pen, nét đan kakeami, đan dây thừng, đan chéo tạo không khí và phun tone.",
-      "file" : "packs/manga-juankprada.inkbrushset",
-      "id" : "manga-juankprada",
-      "license" : "CC0",
-      "name" : "Manga Brushes",
-      "preview" : "previews/manga-juankprada.jpg",
-      "source" : "https://krita-artists.org/t/juankpradas-manga-brushes-bundle/192995",
-      "tags" : [
+      "bytes": 879108,
+      "description": "Manga tools by Juankprada: a real G-pen, kakeami hatching, rope and mood crosshatch, and spray tone.",
+      "descriptionVi": "Bộ dụng cụ manga của Juankprada: bút G-pen, nét đan kakeami, đan dây thừng, đan chéo tạo không khí và phun tone.",
+      "file": "packs/manga-juankprada.inkbrushset",
+      "id": "manga-juankprada",
+      "license": "CC0",
+      "licenseSource": "https://krita-artists.org/t/juankpradas-manga-brushes-bundle/192995",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Manga Brushes",
+      "preview": "previews/manga-juankprada.jpg",
+      "source": "https://krita-artists.org/t/juankpradas-manga-brushes-bundle/192995",
+      "tags": [
         "manga",
         "ink",
         "comic"
       ],
-      "thumbnail" : "previews/manga-juankprada-thumb.jpg"
+      "thumbnail": "previews/manga-juankprada-thumb.jpg"
     },
     {
-      "author" : "MID246",
-      "brushCount" : 26,
-      "brushes" : [
+      "attribution": "MID246",
+      "author": "MID246",
+      "brushCount": 26,
+      "brushes": [
         "0.3mm Pencil",
         "2.0mm Pencil",
         "5.6mm Pencil",
@@ -1677,24 +1748,27 @@
         "Zebra DelGuard",
         "Zebra Delguard Eraser"
       ],
-      "bytes" : 768920,
-      "description" : "MID246's everyday set: mechanical pencils from 0.3 to 5.6 mm, calligraphy pen and Copic-style markers.",
-      "descriptionVi" : "Bộ hằng ngày của MID246: bút chì kim từ 0.3 đến 5.6 mm, bút thư pháp và marker kiểu Copic.",
-      "file" : "packs/mid246.inkbrushset",
-      "id" : "mid246",
-      "license" : "MIT",
-      "name" : "MID246 Brushes",
-      "preview" : "previews/mid246.jpg",
-      "source" : "https://github.com/MID246/MIDs-Brushes",
-      "tags" : [
+      "bytes": 768920,
+      "description": "MID246's everyday set: mechanical pencils from 0.3 to 5.6 mm, calligraphy pen and Copic-style markers.",
+      "descriptionVi": "Bộ hằng ngày của MID246: bút chì kim từ 0.3 đến 5.6 mm, bút thư pháp và marker kiểu Copic.",
+      "file": "packs/mid246.inkbrushset",
+      "id": "mid246",
+      "license": "MIT",
+      "licenseSource": "https://github.com/MID246/MIDs-Brushes/blob/main/LICENSE",
+      "licenseURL": "https://opensource.org/license/mit",
+      "name": "MID246 Brushes",
+      "preview": "previews/mid246.jpg",
+      "source": "https://github.com/MID246/MIDs-Brushes",
+      "tags": [
         "paint"
       ],
-      "thumbnail" : "previews/mid246-thumb.jpg"
+      "thumbnail": "previews/mid246-thumb.jpg"
     },
     {
-      "author" : "K. M. Alexander",
-      "brushCount" : 50,
-      "brushes" : [
+      "attribution": "K. M. Alexander",
+      "author": "K. M. Alexander",
+      "brushCount": 50,
+      "brushes": [
         "Big Building w/ Cherry Trees",
         "Bridge 008",
         "Bridge 032",
@@ -1746,26 +1820,29 @@
         "Torii Gate 019",
         "Water Flora 014"
       ],
-      "bytes" : 2657083,
-      "description" : "Watercolour map stamps from the 17th-century Tōkaidō map: buildings, cherry trees, bridges and pines, by K. M. Alexander.",
-      "descriptionVi" : "Dấu bản đồ màu nước từ bản đồ Tōkaidō thế kỷ 17: nhà, cây anh đào, cầu và thông, của K. M. Alexander.",
-      "file" : "packs/kma-moronobu-gansai.inkbrushset",
-      "id" : "kma-moronobu-gansai",
-      "license" : "CC0",
-      "name" : "Moronobu Gansai",
-      "preview" : "previews/kma-moronobu-gansai.jpg",
-      "source" : "https://kmalexander.com/tag/brushes/",
-      "tags" : [
+      "bytes": 2657083,
+      "description": "Watercolour map stamps from the 17th-century Tōkaidō map: buildings, cherry trees, bridges and pines, by K. M. Alexander.",
+      "descriptionVi": "Dấu bản đồ màu nước từ bản đồ Tōkaidō thế kỷ 17: nhà, cây anh đào, cầu và thông, của K. M. Alexander.",
+      "file": "packs/kma-moronobu-gansai.inkbrushset",
+      "id": "kma-moronobu-gansai",
+      "license": "CC0",
+      "licenseSource": "https://kmalexander.com/tag/brushes/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Moronobu Gansai",
+      "preview": "previews/kma-moronobu-gansai.jpg",
+      "source": "https://kmalexander.com/tag/brushes/",
+      "tags": [
         "map",
         "watercolor",
         "japanese"
       ],
-      "thumbnail" : "previews/kma-moronobu-gansai-thumb.jpg"
+      "thumbnail": "previews/kma-moronobu-gansai-thumb.jpg"
     },
     {
-      "author" : "MyPaint contributors",
-      "brushCount" : 34,
-      "brushes" : [
+      "attribution": "MyPaint contributors",
+      "author": "MyPaint contributors",
+      "brushCount": 34,
+      "brushes": [
         "Blend+paint",
         "Blending knife",
         "Blur",
@@ -1801,26 +1878,29 @@
         "Textured ink",
         "Wet knife"
       ],
-      "bytes" : 798565,
-      "description" : "MyPaint's classic set: pencils, pens, calligraphy, charcoal, knives, blenders and bulk paint brushes.",
-      "descriptionVi" : "Bộ cổ điển của MyPaint: bút chì, bút mực, thư pháp, than, dao vẽ, brush hoà màu và brush đắp sơn dày.",
-      "file" : "packs/mypaint-classic.inkbrushset",
-      "id" : "mypaint-classic",
-      "license" : "CC0",
-      "name" : "MyPaint Classic",
-      "preview" : "previews/mypaint-classic.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 798565,
+      "description": "MyPaint's classic set: pencils, pens, calligraphy, charcoal, knives, blenders and bulk paint brushes.",
+      "descriptionVi": "Bộ cổ điển của MyPaint: bút chì, bút mực, thư pháp, than, dao vẽ, brush hoà màu và brush đắp sơn dày.",
+      "file": "packs/mypaint-classic.inkbrushset",
+      "id": "mypaint-classic",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Classic",
+      "preview": "previews/mypaint-classic.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "pencil",
         "ink",
         "paint"
       ],
-      "thumbnail" : "previews/mypaint-classic-thumb.jpg"
+      "thumbnail": "previews/mypaint-classic-thumb.jpg"
     },
     {
-      "author" : "David Revoy",
-      "brushCount" : 32,
-      "brushes" : [
+      "attribution": "David Revoy, www.davidrevoy.com",
+      "author": "David Revoy",
+      "brushCount": 32,
+      "brushes": [
         "2B pencil",
         "4H pencil",
         "Airbrush",
@@ -1854,25 +1934,28 @@
         "Watercolor expressive",
         "Watercolor glazing"
       ],
-      "bytes" : 581154,
-      "description" : "David Revoy's MyPaint brushes: 2B and 4H pencils, ballpen, airbrush, digital brushes and knives with smudging variants.",
-      "descriptionVi" : "Brush MyPaint của David Revoy: bút chì 2B và 4H, bút bi, airbrush, brush và dao vẽ kỹ thuật số, có cả bản miết màu.",
-      "file" : "packs/mypaint-deevad.inkbrushset",
-      "id" : "mypaint-deevad",
-      "license" : "CC0",
-      "name" : "MyPaint Deevad",
-      "preview" : "previews/mypaint-deevad.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 581154,
+      "description": "David Revoy's MyPaint brushes: 2B and 4H pencils, ballpen, airbrush, digital brushes and knives with smudging variants.",
+      "descriptionVi": "Brush MyPaint của David Revoy: bút chì 2B và 4H, bút bi, airbrush, brush và dao vẽ kỹ thuật số, có cả bản miết màu.",
+      "file": "packs/mypaint-deevad.inkbrushset",
+      "id": "mypaint-deevad",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Deevad",
+      "preview": "previews/mypaint-deevad.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "pencil",
         "paint"
       ],
-      "thumbnail" : "previews/mypaint-deevad-thumb.jpg"
+      "thumbnail": "previews/mypaint-deevad-thumb.jpg"
     },
     {
-      "author" : "Ronald Dieterle",
-      "brushCount" : 18,
-      "brushes" : [
+      "attribution": "Ronald Dieterle",
+      "author": "Ronald Dieterle",
+      "brushCount": 18,
+      "brushes": [
         "8B Pencil#1",
         "Arrow#1",
         "Blender",
@@ -1892,24 +1975,27 @@
         "Tail Feathers2",
         "WateryFlatbrush"
       ],
-      "bytes" : 297369,
-      "description" : "Ronald Dieterle's MyPaint set: 8B pencil, fan and flat brushes, fountain pens, feathers and blenders.",
-      "descriptionVi" : "Bộ MyPaint của Ronald Dieterle: bút chì 8B, cọ quạt, cọ dẹt, bút máy, lông vũ và brush hoà màu.",
-      "file" : "packs/mypaint-dieterle.inkbrushset",
-      "id" : "mypaint-dieterle",
-      "license" : "CC0",
-      "name" : "MyPaint Dieterle",
-      "preview" : "previews/mypaint-dieterle.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 297369,
+      "description": "Ronald Dieterle's MyPaint set: 8B pencil, fan and flat brushes, fountain pens, feathers and blenders.",
+      "descriptionVi": "Bộ MyPaint của Ronald Dieterle: bút chì 8B, cọ quạt, cọ dẹt, bút máy, lông vũ và brush hoà màu.",
+      "file": "packs/mypaint-dieterle.inkbrushset",
+      "id": "mypaint-dieterle",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Dieterle",
+      "preview": "previews/mypaint-dieterle.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "paint"
       ],
-      "thumbnail" : "previews/mypaint-dieterle-thumb.jpg"
+      "thumbnail": "previews/mypaint-dieterle-thumb.jpg"
     },
     {
-      "author" : "MyPaint contributors",
-      "brushCount" : 23,
-      "brushes" : [
+      "attribution": "MyPaint contributors",
+      "author": "MyPaint contributors",
+      "brushCount": 23,
+      "brushes": [
         "1pixel",
         "Basic",
         "Bubble",
@@ -1934,24 +2020,27 @@
         "Subtle pencil",
         "Track"
       ],
-      "bytes" : 371398,
-      "description" : "Playful experimental MyPaint brushes: bubbles, DNA, fur, glow, blots and irregular inks.",
-      "descriptionVi" : "Brush MyPaint thử nghiệm vui mắt: bong bóng, DNA, lông thú, phát sáng, vết mực và mực không đều.",
-      "file" : "packs/mypaint-experimental.inkbrushset",
-      "id" : "mypaint-experimental",
-      "license" : "CC0",
-      "name" : "MyPaint Experimental",
-      "preview" : "previews/mypaint-experimental.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 371398,
+      "description": "Playful experimental MyPaint brushes: bubbles, DNA, fur, glow, blots and irregular inks.",
+      "descriptionVi": "Brush MyPaint thử nghiệm vui mắt: bong bóng, DNA, lông thú, phát sáng, vết mực và mực không đều.",
+      "file": "packs/mypaint-experimental.inkbrushset",
+      "id": "mypaint-experimental",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Experimental",
+      "preview": "previews/mypaint-experimental.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "effects"
       ],
-      "thumbnail" : "previews/mypaint-experimental-thumb.jpg"
+      "thumbnail": "previews/mypaint-experimental-thumb.jpg"
     },
     {
-      "author" : "Kaerhon",
-      "brushCount" : 20,
-      "brushes" : [
+      "attribution": "Kaerhon",
+      "author": "Kaerhon",
+      "brushCount": 20,
+      "brushes": [
         "Airbruch press a",
         "Airbrush a",
         "Airsmudge a",
@@ -1973,25 +2062,28 @@
         "Smudge ink(0.7) sm",
         "Wet paint sm"
       ],
-      "bytes" : 411029,
-      "description" : "Kaerhon's MyPaint pack: airbrushes, smudge brushes, round blocks and fills for fast painting.",
-      "descriptionVi" : "Bộ MyPaint của Kaerhon: airbrush, brush miết, khối tròn và tô mảng để vẽ nhanh.",
-      "file" : "packs/mypaint-kaerhon_v1.inkbrushset",
-      "id" : "mypaint-kaerhon_v1",
-      "license" : "CC0",
-      "name" : "MyPaint Kaerhon",
-      "preview" : "previews/mypaint-kaerhon_v1.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 411029,
+      "description": "Kaerhon's MyPaint pack: airbrushes, smudge brushes, round blocks and fills for fast painting.",
+      "descriptionVi": "Bộ MyPaint của Kaerhon: airbrush, brush miết, khối tròn và tô mảng để vẽ nhanh.",
+      "file": "packs/mypaint-kaerhon_v1.inkbrushset",
+      "id": "mypaint-kaerhon_v1",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Kaerhon",
+      "preview": "previews/mypaint-kaerhon_v1.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "paint",
         "sketch"
       ],
-      "thumbnail" : "previews/mypaint-kaerhon_v1-thumb.jpg"
+      "thumbnail": "previews/mypaint-kaerhon_v1-thumb.jpg"
     },
     {
-      "author" : "Ramón Miranda",
-      "brushCount" : 26,
-      "brushes" : [
+      "attribution": "Ramón Miranda",
+      "author": "Ramón Miranda",
+      "brushCount": 26,
+      "brushes": [
         "2B pencil",
         "100% Opaque",
         "B pencil",
@@ -2019,25 +2111,28 @@
         "Wet Direction",
         "Wet round"
       ],
-      "bytes" : 435034,
-      "description" : "Ramon Miranda's MyPaint brushes: pencils, opaque paint, airbrushes, clouds, blur and light-beam effects.",
-      "descriptionVi" : "Brush MyPaint của Ramon Miranda: bút chì, sơn phủ, airbrush, mây, làm mờ và hiệu ứng tia sáng.",
-      "file" : "packs/mypaint-ramon.inkbrushset",
-      "id" : "mypaint-ramon",
-      "license" : "CC0",
-      "name" : "MyPaint Ramón",
-      "preview" : "previews/mypaint-ramon.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 435034,
+      "description": "Ramon Miranda's MyPaint brushes: pencils, opaque paint, airbrushes, clouds, blur and light-beam effects.",
+      "descriptionVi": "Brush MyPaint của Ramon Miranda: bút chì, sơn phủ, airbrush, mây, làm mờ và hiệu ứng tia sáng.",
+      "file": "packs/mypaint-ramon.inkbrushset",
+      "id": "mypaint-ramon",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Ramón",
+      "preview": "previews/mypaint-ramon.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "paint",
         "texture"
       ],
-      "thumbnail" : "previews/mypaint-ramon-thumb.jpg"
+      "thumbnail": "previews/mypaint-ramon-thumb.jpg"
     },
     {
-      "author" : "Tanda",
-      "brushCount" : 35,
-      "brushes" : [
+      "attribution": "Tanda",
+      "author": "Tanda",
+      "brushCount": 35,
+      "brushes": [
         "Acrylic 03 only water",
         "Acrylic 03 paint",
         "Acrylic 03 with water",
@@ -2074,25 +2169,28 @@
         "Watercolor 02 paint",
         "Watercolor 02 water"
       ],
-      "bytes" : 618104,
-      "description" : "Tanda's MyPaint acrylics: each brush comes as paint, paint-with-water and water-only for natural mixing.",
-      "descriptionVi" : "Bộ sơn acrylic MyPaint của Tanda: mỗi brush có ba bản — sơn, sơn pha nước và chỉ nước — để pha màu tự nhiên.",
-      "file" : "packs/mypaint-tanda.inkbrushset",
-      "id" : "mypaint-tanda",
-      "license" : "CC0",
-      "name" : "MyPaint Tanda",
-      "preview" : "previews/mypaint-tanda.jpg",
-      "source" : "https://github.com/mypaint/mypaint-brushes",
-      "tags" : [
+      "bytes": 618104,
+      "description": "Tanda's MyPaint acrylics: each brush comes as paint, paint-with-water and water-only for natural mixing.",
+      "descriptionVi": "Bộ sơn acrylic MyPaint của Tanda: mỗi brush có ba bản — sơn, sơn pha nước và chỉ nước — để pha màu tự nhiên.",
+      "file": "packs/mypaint-tanda.inkbrushset",
+      "id": "mypaint-tanda",
+      "license": "CC0",
+      "licenseSource": "https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "MyPaint Tanda",
+      "preview": "previews/mypaint-tanda.jpg",
+      "source": "https://github.com/mypaint/mypaint-brushes",
+      "tags": [
         "pencil",
         "ink"
       ],
-      "thumbnail" : "previews/mypaint-tanda-thumb.jpg"
+      "thumbnail": "previews/mypaint-tanda-thumb.jpg"
     },
     {
-      "author" : "Camille Bissuel",
-      "brushCount" : 21,
-      "brushes" : [
+      "attribution": "Camille Bissuel",
+      "author": "Camille Bissuel",
+      "brushCount": 21,
+      "brushes": [
         "Aboriginal Dots",
         "Airbrush",
         "Basic",
@@ -2115,25 +2213,28 @@
         "Poska Square",
         "Poska Triangle"
       ],
-      "bytes" : 718182,
-      "description" : "Nylnook art pens by Camille Bissuel: inks, basics, fills, airbrush and decorative dot brushes, designed for comics.",
-      "descriptionVi" : "Bộ bút Nylnook của Camille Bissuel: mực, brush cơ bản, tô mảng, airbrush và brush chấm trang trí, thiết kế cho truyện tranh.",
-      "file" : "packs/nylnook-art.inkbrushset",
-      "id" : "nylnook-art",
-      "license" : "CC0",
-      "name" : "Nylnook Art Pens",
-      "preview" : "previews/nylnook-art.jpg",
-      "source" : "https://github.com/nylnook/nylnook-krita-brushes",
-      "tags" : [
+      "bytes": 718182,
+      "description": "Nylnook art pens by Camille Bissuel: inks, basics, fills, airbrush and decorative dot brushes, designed for comics.",
+      "descriptionVi": "Bộ bút Nylnook của Camille Bissuel: mực, brush cơ bản, tô mảng, airbrush và brush chấm trang trí, thiết kế cho truyện tranh.",
+      "file": "packs/nylnook-art.inkbrushset",
+      "id": "nylnook-art",
+      "license": "CC0",
+      "licenseSource": "https://github.com/nylnook/nylnook-krita-brushes",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Nylnook Art Pens",
+      "preview": "previews/nylnook-art.jpg",
+      "source": "https://github.com/nylnook/nylnook-krita-brushes",
+      "tags": [
         "ink",
         "comic"
       ],
-      "thumbnail" : "previews/nylnook-art-thumb.jpg"
+      "thumbnail": "previews/nylnook-art-thumb.jpg"
     },
     {
-      "author" : "Raghukamath",
-      "brushCount" : 29,
-      "brushes" : [
+      "attribution": "Raghukamath",
+      "author": "Raghukamath",
+      "brushCount": 29,
+      "brushes": [
         "Basic",
         "Basic-render",
         "Chalk02",
@@ -2164,25 +2265,28 @@
         "Sponge-03",
         "Sponze dry"
       ],
-      "bytes" : 1301918,
-      "description" : "Raghukamath's everyday painting pack: basics, chalk, crayon, dry pastel, clouds and dotted textures.",
-      "descriptionVi" : "Bộ vẽ hằng ngày của Raghukamath: brush cơ bản, phấn, sáp, phấn tiên khô, mây và texture chấm.",
-      "file" : "packs/raghukamath.inkbrushset",
-      "id" : "raghukamath",
-      "license" : "CC0",
-      "name" : "Raghukamath Pack",
-      "preview" : "previews/raghukamath.jpg",
-      "source" : "https://gitlab.com/raghukamath/krita-brush-presets",
-      "tags" : [
+      "bytes": 1301918,
+      "description": "Raghukamath's everyday painting pack: basics, chalk, crayon, dry pastel, clouds and dotted textures.",
+      "descriptionVi": "Bộ vẽ hằng ngày của Raghukamath: brush cơ bản, phấn, sáp, phấn tiên khô, mây và texture chấm.",
+      "file": "packs/raghukamath.inkbrushset",
+      "id": "raghukamath",
+      "license": "CC0",
+      "licenseSource": "https://gitlab.com/raghukamath/krita-brush-presets",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Raghukamath Pack",
+      "preview": "previews/raghukamath.jpg",
+      "source": "https://gitlab.com/raghukamath/krita-brush-presets",
+      "tags": [
         "painting",
         "sketch"
       ],
-      "thumbnail" : "previews/raghukamath-thumb.jpg"
+      "thumbnail": "previews/raghukamath-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 14,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 14,
+      "brushes": [
         "Spray Dust",
         "Spray Dust Dirty",
         "Spray Dust-Dense",
@@ -2198,25 +2302,28 @@
         "Spray Special-Confetti",
         "Spray Special-Lights"
       ],
-      "bytes" : 335886,
-      "description" : "Ramon Miranda's spray brushes: dust, rain, snow and object sprays for atmosphere and quick backgrounds.",
-      "descriptionVi" : "Brush phun của Ramon Miranda: bụi, mưa, tuyết và phun vật thể để tạo không khí và phông nền nhanh.",
-      "file" : "packs/ramon-spray.inkbrushset",
-      "id" : "ramon-spray",
-      "license" : "CC0",
-      "name" : "Ramon Spray",
-      "preview" : "previews/ramon-spray.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 335886,
+      "description": "Ramon Miranda's spray brushes: dust, rain, snow and object sprays for atmosphere and quick backgrounds.",
+      "descriptionVi": "Brush phun của Ramon Miranda: bụi, mưa, tuyết và phun vật thể để tạo không khí và phông nền nhanh.",
+      "file": "packs/ramon-spray.inkbrushset",
+      "id": "ramon-spray",
+      "license": "CC0",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Ramon Spray",
+      "preview": "previews/ramon-spray.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "spray",
         "texture"
       ],
-      "thumbnail" : "previews/ramon-spray-thumb.jpg"
+      "thumbnail": "previews/ramon-spray-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 10,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 10,
+      "brushes": [
         "Bristles",
         "Bristles-Rough",
         "Details",
@@ -2228,25 +2335,28 @@
         "Impasto-input",
         "Soft Dulling"
       ],
-      "bytes" : 992235,
-      "description" : "RGBA Wet by Ramon Miranda: wet flat and bristle brushes that dull and spread colour like real paint.",
-      "descriptionVi" : "RGBA Wet của Ramon Miranda: brush dẹt và brush lông ướt, làm nhoè và loang màu như sơn thật.",
-      "file" : "packs/ramon-rgba-wet.inkbrushset",
-      "id" : "ramon-rgba-wet",
-      "license" : "CC BY-SA",
-      "name" : "RGBA Wet",
-      "preview" : "previews/ramon-rgba-wet.jpg",
-      "source" : "https://files.kde.org/krita/extras/",
-      "tags" : [
+      "bytes": 992235,
+      "description": "RGBA Wet by Ramon Miranda: wet flat and bristle brushes that dull and spread colour like real paint.",
+      "descriptionVi": "RGBA Wet của Ramon Miranda: brush dẹt và brush lông ướt, làm nhoè và loang màu như sơn thật.",
+      "file": "packs/ramon-rgba-wet.inkbrushset",
+      "id": "ramon-rgba-wet",
+      "license": "CC BY-SA",
+      "licenseSource": "https://files.kde.org/krita/extras/",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "name": "RGBA Wet",
+      "preview": "previews/ramon-rgba-wet.jpg",
+      "source": "https://files.kde.org/krita/extras/",
+      "tags": [
         "watercolor",
         "wet"
       ],
-      "thumbnail" : "previews/ramon-rgba-wet-thumb.jpg"
+      "thumbnail": "previews/ramon-rgba-wet-thumb.jpg"
     },
     {
-      "author" : "Razvan Radulescu",
-      "brushCount" : 34,
-      "brushes" : [
+      "attribution": "Razvan Radulescu",
+      "author": "Razvan Radulescu",
+      "brushCount": 34,
+      "brushes": [
         "Basic Oval",
         "Blender Pores",
         "Block Gradient",
@@ -2282,25 +2392,28 @@
         "Texture Clouds",
         "Texture Fog"
       ],
-      "bytes" : 960860,
-      "description" : "RZV Brushkit by Razvan Radulescu: chalk, charcoal, dirty hatching and textured blocking brushes for concept art.",
-      "descriptionVi" : "RZV Brushkit của Razvan Radulescu: phấn, than, nét đan bẩn và brush lên mảng có texture cho concept art.",
-      "file" : "packs/rzv-brushkit.inkbrushset",
-      "id" : "rzv-brushkit",
-      "license" : "CC BY 4.0",
-      "name" : "RZV Brushkit",
-      "preview" : "previews/rzv-brushkit.jpg",
-      "source" : "https://gitlab.com/razcore-rad/rzv-krita-brushkit",
-      "tags" : [
+      "bytes": 960860,
+      "description": "RZV Brushkit by Razvan Radulescu: chalk, charcoal, dirty hatching and textured blocking brushes for concept art.",
+      "descriptionVi": "RZV Brushkit của Razvan Radulescu: phấn, than, nét đan bẩn và brush lên mảng có texture cho concept art.",
+      "file": "packs/rzv-brushkit.inkbrushset",
+      "id": "rzv-brushkit",
+      "license": "CC BY 4.0",
+      "licenseSource": "https://gitlab.com/razcore-rad/rzv-krita-brushkit",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "RZV Brushkit",
+      "preview": "previews/rzv-brushkit.jpg",
+      "source": "https://gitlab.com/razcore-rad/rzv-krita-brushkit",
+      "tags": [
         "painting",
         "concept art"
       ],
-      "thumbnail" : "previews/rzv-brushkit-thumb.jpg"
+      "thumbnail": "previews/rzv-brushkit-thumb.jpg"
     },
     {
-      "author" : "Ramon Miranda",
-      "brushCount" : 33,
-      "brushes" : [
+      "attribution": "Ramon Miranda",
+      "author": "Ramon Miranda",
+      "brushCount": 33,
+      "brushes": [
         "2B Tone",
         "3H Tone",
         "6B Tone",
@@ -2335,25 +2448,28 @@
         "Tilted Pencil",
         "Tilted Pencil Rough"
       ],
-      "bytes" : 13259814,
-      "description" : "SK3 by Ramon Miranda: a sketching kit of smooth bristol pencils, mechanical pencils and graded H–B tone pencils.",
-      "descriptionVi" : "SK3 của Ramon Miranda: bộ phác thảo gồm bút chì trên giấy bristol, bút chì kim và bút chì tô bóng từ H đến B.",
-      "file" : "packs/ramon-sk3.inkbrushset",
-      "id" : "ramon-sk3",
-      "license" : "CC BY-SA",
-      "name" : "SK3 Sketching",
-      "preview" : "previews/ramon-sk3.jpg",
-      "source" : "https://files.kde.org/krita/extras/SK3/",
-      "tags" : [
+      "bytes": 13259814,
+      "description": "SK3 by Ramon Miranda: a sketching kit of smooth bristol pencils, mechanical pencils and graded H–B tone pencils.",
+      "descriptionVi": "SK3 của Ramon Miranda: bộ phác thảo gồm bút chì trên giấy bristol, bút chì kim và bút chì tô bóng từ H đến B.",
+      "file": "packs/ramon-sk3.inkbrushset",
+      "id": "ramon-sk3",
+      "license": "CC BY-SA",
+      "licenseSource": "https://files.kde.org/krita/extras/SK3/",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "name": "SK3 Sketching",
+      "preview": "previews/ramon-sk3.jpg",
+      "source": "https://files.kde.org/krita/extras/SK3/",
+      "tags": [
         "sketch",
         "pencil"
       ],
-      "thumbnail" : "previews/ramon-sk3-thumb.jpg"
+      "thumbnail": "previews/ramon-sk3-thumb.jpg"
     },
     {
-      "author" : "Micky Hulse",
-      "brushCount" : 24,
-      "brushes" : [
+      "attribution": "Micky Hulse",
+      "author": "Micky Hulse",
+      "brushCount": 24,
+      "brushes": [
         "Spray paint",
         "Spray paint 2",
         "Spray paint 3",
@@ -2379,25 +2495,28 @@
         "Spray paint 23",
         "Spray paint 24"
       ],
-      "bytes" : 5366205,
-      "description" : "Real spray-paint scans by Micky Hulse — street-art bursts and drips.",
-      "descriptionVi" : "Vệt sơn xịt scan từ thật của Micky Hulse — chùm xịt và vệt chảy kiểu street art.",
-      "file" : "packs/spray-paint.inkbrushset",
-      "id" : "spray-paint",
-      "license" : "Apache-2.0",
-      "name" : "Spray Paint",
-      "preview" : "previews/spray-paint.jpg",
-      "source" : "https://github.com/mhulse/spray-paint-brushes",
-      "tags" : [
+      "bytes": 5366205,
+      "description": "Real spray-paint scans by Micky Hulse — street-art bursts and drips.",
+      "descriptionVi": "Vệt sơn xịt scan từ thật của Micky Hulse — chùm xịt và vệt chảy kiểu street art.",
+      "file": "packs/spray-paint.inkbrushset",
+      "id": "spray-paint",
+      "license": "Apache-2.0",
+      "licenseSource": "https://github.com/mhulse/spray-paint-brushes/blob/master/LICENSE",
+      "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
+      "name": "Spray Paint",
+      "preview": "previews/spray-paint.jpg",
+      "source": "https://github.com/mhulse/spray-paint-brushes",
+      "tags": [
         "spray",
         "graffiti"
       ],
-      "thumbnail" : "previews/spray-paint-thumb.jpg"
+      "thumbnail": "previews/spray-paint-thumb.jpg"
     },
     {
-      "author" : "Jay Versluis",
-      "brushCount" : 12,
-      "brushes" : [
+      "attribution": "Jay Versluis",
+      "author": "Jay Versluis",
+      "brushCount": 12,
+      "brushes": [
         "Baseball Stitch",
         "Close Weave",
         "Cross Stitch",
@@ -2411,25 +2530,28 @@
         "Thick Stitch",
         "V-Stitch"
       ],
-      "bytes" : 1065895,
-      "description" : "Stitch and sequin brushes by Jay Versluis: cross stitch, weaves, baseball stitch and sequins for craft-style art.",
-      "descriptionVi" : "Brush đường khâu và kim sa của Jay Versluis: khâu chữ thập, đan, đường khâu bóng chày và kim sa cho tranh kiểu thủ công.",
-      "file" : "packs/versluis-stitches.inkbrushset",
-      "id" : "versluis-stitches",
-      "license" : "CC0",
-      "name" : "Stitches & Sequins",
-      "preview" : "previews/versluis-stitches.jpg",
-      "source" : "https://www.versluis.com/2015/01/procreate-stitch-and-sequin-brushes/",
-      "tags" : [
+      "bytes": 1065895,
+      "description": "Stitch and sequin brushes by Jay Versluis: cross stitch, weaves, baseball stitch and sequins for craft-style art.",
+      "descriptionVi": "Brush đường khâu và kim sa của Jay Versluis: khâu chữ thập, đan, đường khâu bóng chày và kim sa cho tranh kiểu thủ công.",
+      "file": "packs/versluis-stitches.inkbrushset",
+      "id": "versluis-stitches",
+      "license": "CC0",
+      "licenseSource": "https://www.versluis.com/wp-content/uploads/2020/01/License-Procreate-Brushes.txt",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "Stitches & Sequins",
+      "preview": "previews/versluis-stitches.jpg",
+      "source": "https://www.versluis.com/2015/01/procreate-stitch-and-sequin-brushes/",
+      "tags": [
         "craft",
         "stamps"
       ],
-      "thumbnail" : "previews/versluis-stitches-thumb.jpg"
+      "thumbnail": "previews/versluis-stitches-thumb.jpg"
     },
     {
-      "author" : "myPhotoshopBrushes",
-      "brushCount" : 23,
-      "brushes" : [
+      "attribution": "myPhotoshopBrushes",
+      "author": "myPhotoshopBrushes",
+      "brushCount": 23,
+      "brushes": [
         "Angled Fan",
         "Corner Rays",
         "Faded Sunburst",
@@ -2454,25 +2576,28 @@
         "Wavy Sunburst",
         "Wide Sunburst"
       ],
-      "bytes" : 4338000,
-      "description" : "Sunburst and ray stamps: fans, corner rays, spirals and glowing bursts for backgrounds and posters.",
-      "descriptionVi" : "Dấu tia sáng mặt trời: hình quạt, tia góc, xoắn ốc và chùm sáng cho phông nền và poster.",
-      "file" : "packs/mpb-sunburst-rays.inkbrushset",
-      "id" : "mpb-sunburst-rays",
-      "license" : "CC BY-SA 3.0",
-      "name" : "Sunburst Rays",
-      "preview" : "previews/mpb-sunburst-rays.jpg",
-      "source" : "https://myphotoshopbrushes.com/resources/4244/sunburst-rays-procreate-brushes",
-      "tags" : [
+      "bytes": 4338000,
+      "description": "Sunburst and ray stamps: fans, corner rays, spirals and glowing bursts for backgrounds and posters.",
+      "descriptionVi": "Dấu tia sáng mặt trời: hình quạt, tia góc, xoắn ốc và chùm sáng cho phông nền và poster.",
+      "file": "packs/mpb-sunburst-rays.inkbrushset",
+      "id": "mpb-sunburst-rays",
+      "license": "CC BY-SA 3.0",
+      "licenseSource": "https://myphotoshopbrushes.com/resources/4244/sunburst-rays-procreate-brushes",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "name": "Sunburst Rays",
+      "preview": "previews/mpb-sunburst-rays.jpg",
+      "source": "https://myphotoshopbrushes.com/resources/4244/sunburst-rays-procreate-brushes",
+      "tags": [
         "light",
         "effects"
       ],
-      "thumbnail" : "previews/mpb-sunburst-rays-thumb.jpg"
+      "thumbnail": "previews/mpb-sunburst-rays-thumb.jpg"
     },
     {
-      "author" : "TinyWorlds",
-      "brushCount" : 18,
-      "brushes" : [
+      "attribution": "TinyWorlds",
+      "author": "TinyWorlds",
+      "brushCount": 18,
+      "brushes": [
         "Acorn Leaves",
         "Acorn Leaves Autumn",
         "Acorn Leaves Autumn with Shadow",
@@ -2492,25 +2617,28 @@
         "Realistic Grass #1",
         "Realistic Grass and Daisy #1"
       ],
-      "bytes" : 807786,
-      "description" : "TinyWorlds' nature stamps: acorn leaves and trees (with and without shadows), flint and crayon grass.",
-      "descriptionVi" : "Dấu thiên nhiên của TinyWorlds: lá và cây sồi (có và không có bóng), đá lửa và cỏ vẽ sáp.",
-      "file" : "packs/tinyworlds-gimp.inkbrushset",
-      "id" : "tinyworlds-gimp",
-      "license" : "CC0",
-      "name" : "TinyWorlds Brushes",
-      "preview" : "previews/tinyworlds-gimp.jpg",
-      "source" : "https://opengameart.org/content/gimp-brushes",
-      "tags" : [
+      "bytes": 807786,
+      "description": "TinyWorlds' nature stamps: acorn leaves and trees (with and without shadows), flint and crayon grass.",
+      "descriptionVi": "Dấu thiên nhiên của TinyWorlds: lá và cây sồi (có và không có bóng), đá lửa và cỏ vẽ sáp.",
+      "file": "packs/tinyworlds-gimp.inkbrushset",
+      "id": "tinyworlds-gimp",
+      "license": "CC0",
+      "licenseSource": "https://opengameart.org/content/gimp-brushes",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "TinyWorlds Brushes",
+      "preview": "previews/tinyworlds-gimp.jpg",
+      "source": "https://opengameart.org/content/gimp-brushes",
+      "tags": [
         "texture",
         "nature"
       ],
-      "thumbnail" : "previews/tinyworlds-gimp-thumb.jpg"
+      "thumbnail": "previews/tinyworlds-gimp-thumb.jpg"
     },
     {
-      "author" : "myPhotoshopBrushes",
-      "brushCount" : 18,
-      "brushes" : [
+      "attribution": "myPhotoshopBrushes",
+      "author": "myPhotoshopBrushes",
+      "brushCount": 18,
+      "brushes": [
         "Airliner",
         "Birds on Antenna",
         "Decorative Chimney",
@@ -2530,25 +2658,28 @@
         "Wall Vent",
         "Woman Figurine"
       ],
-      "bytes" : 4218422,
-      "description" : "Photographic city details from Vienna: chimneys, facades, antennas with birds, figurines and more as stamps.",
-      "descriptionVi" : "Chi tiết thành phố Vienna dạng ảnh: ống khói, mặt tiền, ăng-ten có chim, tượng nhỏ… dùng làm dấu.",
-      "file" : "packs/mpb-vienna-city.inkbrushset",
-      "id" : "mpb-vienna-city",
-      "license" : "CC BY-SA 3.0",
-      "name" : "Vienna City",
-      "preview" : "previews/mpb-vienna-city.jpg",
-      "source" : "https://myphotoshopbrushes.com/resources/4251/vienna-city-procreate-brushes",
-      "tags" : [
+      "bytes": 4218422,
+      "description": "Photographic city details from Vienna: chimneys, facades, antennas with birds, figurines and more as stamps.",
+      "descriptionVi": "Chi tiết thành phố Vienna dạng ảnh: ống khói, mặt tiền, ăng-ten có chim, tượng nhỏ… dùng làm dấu.",
+      "file": "packs/mpb-vienna-city.inkbrushset",
+      "id": "mpb-vienna-city",
+      "license": "CC BY-SA 3.0",
+      "licenseSource": "https://myphotoshopbrushes.com/resources/4251/vienna-city-procreate-brushes",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "name": "Vienna City",
+      "preview": "previews/mpb-vienna-city.jpg",
+      "source": "https://myphotoshopbrushes.com/resources/4251/vienna-city-procreate-brushes",
+      "tags": [
         "city",
         "stamps"
       ],
-      "thumbnail" : "previews/mpb-vienna-city-thumb.jpg"
+      "thumbnail": "previews/mpb-vienna-city-thumb.jpg"
     },
     {
-      "author" : "yd",
-      "brushCount" : 60,
-      "brushes" : [
+      "attribution": "yd",
+      "author": "yd",
+      "brushCount": 60,
+      "brushes": [
         "Ship01",
         "YD Cartography 1",
         "YD Cartography 2",
@@ -2610,25 +2741,28 @@
         "YD Cartography 58",
         "YD Cartography 59"
       ],
-      "bytes" : 1661564,
-      "description" : "Hand-drawn cartography stamps by yd for fantasy maps: mountains, trees, towns and map symbols.",
-      "descriptionVi" : "Dấu vẽ bản đồ vẽ tay của yd cho bản đồ giả tưởng: núi, cây, thị trấn và ký hiệu bản đồ.",
-      "file" : "packs/yd-cartography.inkbrushset",
-      "id" : "yd-cartography",
-      "license" : "CC BY 3.0",
-      "name" : "YD Cartography",
-      "preview" : "previews/yd-cartography.jpg",
-      "source" : "https://opengameart.org/content/cartography-brushes-for-gimp",
-      "tags" : [
+      "bytes": 1661564,
+      "description": "Hand-drawn cartography stamps by yd for fantasy maps: mountains, trees, towns and map symbols.",
+      "descriptionVi": "Dấu vẽ bản đồ vẽ tay của yd cho bản đồ giả tưởng: núi, cây, thị trấn và ký hiệu bản đồ.",
+      "file": "packs/yd-cartography.inkbrushset",
+      "id": "yd-cartography",
+      "license": "CC BY 3.0",
+      "licenseSource": "https://opengameart.org/content/cartography-brushes-for-gimp",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "name": "YD Cartography",
+      "preview": "previews/yd-cartography.jpg",
+      "source": "https://opengameart.org/content/cartography-brushes-for-gimp",
+      "tags": [
         "map",
         "stamps"
       ],
-      "thumbnail" : "previews/yd-cartography-thumb.jpg"
+      "thumbnail": "previews/yd-cartography-thumb.jpg"
     },
     {
-      "author" : "Ľubomír Zabadal",
-      "brushCount" : 19,
-      "brushes" : [
+      "attribution": "Ľubomír Zabadal",
+      "author": "Ľubomír Zabadal",
+      "brushCount": 19,
+      "brushes": [
         "Drypoint 1",
         "Drypoint 2",
         "Litographic Chalk 1",
@@ -2649,20 +2783,22 @@
         "Woodcut 6",
         "Woodcut 7"
       ],
-      "bytes" : 719388,
-      "description" : "Ľubomír Zabadal's classical techniques: drypoint, lithographic chalk and red chalk.",
-      "descriptionVi" : "Kỹ thuật cổ điển của Ľubomír Zabadal: khắc khô (drypoint), phấn in đá và phấn đỏ.",
-      "file" : "packs/zabadal.inkbrushset",
-      "id" : "zabadal",
-      "license" : "GPL-3.0",
-      "name" : "Zabadal Brushes",
-      "preview" : "previews/zabadal.jpg",
-      "source" : "https://github.com/americogobbo/forks-and-drills",
-      "tags" : [
+      "bytes": 719388,
+      "description": "Ľubomír Zabadal's classical techniques: drypoint, lithographic chalk and red chalk.",
+      "descriptionVi": "Kỹ thuật cổ điển của Ľubomír Zabadal: khắc khô (drypoint), phấn in đá và phấn đỏ.",
+      "file": "packs/zabadal.inkbrushset",
+      "id": "zabadal",
+      "license": "GPL-3.0",
+      "licenseSource": "https://github.com/americogobbo/forks-and-drills",
+      "licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "name": "Zabadal Brushes",
+      "preview": "previews/zabadal.jpg",
+      "source": "https://github.com/americogobbo/forks-and-drills",
+      "tags": [
         "paint"
       ],
-      "thumbnail" : "previews/zabadal-thumb.jpg"
+      "thumbnail": "previews/zabadal-thumb.jpg"
     }
   ],
-  "version" : 1
+  "version": 1
 }
