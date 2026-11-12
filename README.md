@@ -7,7 +7,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 - GPL sets include their original source files under `sources/`. MIT / Apache notices are in `licenses/`.
 - David Revoy's sets: "This attribution is necessary in case of redistributing the pack, commercializing it, or modifying the brushes files" — credit: **David Revoy, www.davidrevoy.com**.
 
-**151 sets · 4942 brushes**
+**157 sets · 5187 brushes**
 
 | Set | Credit | License | Brushes | License statement |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Burst Brushes Cs | DothackersDaichi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 18 | https://myphotoshopbrushes.com/resources/135/burst-brushes-cs |
 | Cazu Brushes | Pablo Cazorla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 46 | https://github.com/pablocazorla/Krita_Brushes_v3#readme |
 | Chaos & Evolutions | David Revoy, www.davidrevoy.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 42 | https://www.davidrevoy.com/data/documents/chaos-and-evolutions-brush-kit.tar.gz |
+| Christmas Silhouettes | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 49 | https://openclipart.org/share |
 | Cloud Alphas | WickedInsignia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://opengameart.org/content/clouds-with-transparency |
 | Crayons | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://files.kde.org/krita/extras/ |
 | De Fer Battlefield | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
@@ -51,6 +52,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Ende Littoral Edger | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://kmalexander.com/tag/brushes/ |
 | EO Bundle | EyeOdin | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 17 | https://github.com/EyeOdin/eo_bundle/blob/main/LICENSE |
 | Feathers | RussDepress | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 5 | https://myphotoshopbrushes.com/resources/3352/free-feathers-ps-brushes |
+| Fireworks & Stars | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 34 | https://openclipart.org/share |
 | Flower Designs | Eusebio I. Puscasu | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 38 | https://myphotoshopbrushes.com/resources/262/flower-designs |
 | Forks & Drills Bristles & Sumi | J. A. Gobbo, M. Couto | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 19 | https://github.com/americogobbo/forks-and-drills |
 | Forks & Drills Noises | J. A. Gobbo, M. Couto | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 19 | https://github.com/americogobbo/forks-and-drills |
@@ -82,6 +84,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Krita Essentials | Krita contributors (Deevad, Ramon Miranda…) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 107 | https://invent.kde.org/graphics/krita/-/raw/master/krita/data/bundles/Krita_4_Default_Resources.bundle |
 | L'Isle Battlefield | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Lumbia Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Lunar New Year | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 41 | https://openclipart.org/share |
 | Manga Brushes | Juankprada | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 12 | https://krita-artists.org/t/juankpradas-manga-brushes-bundle/192995 |
 | Map Elements | eysselia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://opengameart.org/content/brush-and-element-for-drawing-a-map |
 | Map Making Icons | marionline | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 11 | https://opengameart.org/content/brushset-for-map-making-with-the-gimp |
@@ -104,9 +107,11 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | MyPaint Ramón | Ramón Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 26 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
 | MyPaint Tanda | Tanda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 35 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
 | Müller Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| New Year Party | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 30 | https://openclipart.org/share |
 | Nylnook Art Pens | Camille Bissuel | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 21 | https://github.com/nylnook/nylnook-krita-brushes |
 | Nylnook Generic Pens | Camille Bissuel | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 21 | https://github.com/nylnook/nylnook-krita-brushes |
 | Ogilby Road Atlas | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Ornaments & Holly | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 47 | https://openclipart.org/share |
 | Particles & Sparkles | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/particle-pack-80-sprites |
 | Popple Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Public Domain Alphas | OpenClipart & British Library (curated) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/public-domain-alphas |
@@ -127,6 +132,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Smoke | Jon Bee | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 6 | https://myphotoshopbrushes.com/resources/382/six-smoke-brushes |
 | Smoke & Explosions | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://opengameart.org/content/smoke-particle-assets |
 | Smudge Brushes | Stereofrenik | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 5 | https://myphotoshopbrushes.com/resources/3165/six-smudge-brushes |
+| Snowflakes | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 44 | https://openclipart.org/share |
 | Splat Pack | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://opengameart.org/content/splat-pack |
 | Spray Paint | Micky Hulse | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | 24 | https://github.com/mhulse/spray-paint-brushes/blob/master/LICENSE |
 | Stereofrenik Set | Stereofrenik | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 45 | https://myphotoshopbrushes.com/resources/3164/my-current-brush-set-by-stereofrenik |
