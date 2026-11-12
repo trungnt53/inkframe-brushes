@@ -7,7 +7,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 - GPL sets include their original source files under `sources/`. MIT / Apache notices are in `licenses/`.
 - David Revoy's sets: "This attribution is necessary in case of redistributing the pack, commercializing it, or modifying the brushes files" — credit: **David Revoy, www.davidrevoy.com**.
 
-**116 sets · 3829 brushes**
+**151 sets · 4942 brushes**
 
 | Set | Credit | License | Brushes | License statement |
 |---|---|---|---|---|
@@ -18,11 +18,14 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | AL Lineart | AureliaLeta | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://krita-artists.org/t/aurelia-s-lineart-comic-bundle/115126 |
 | AL Painting | AureliaLeta | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://krita-artists.org/t/al-painting-bundle/192439 |
 | AL Pencils | AureliaLeta | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 5 | https://krita-artists.org/t/aurelias-pencils-bundle/113614 |
+| Around Eugene | Micky Hulse | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | 40 | https://github.com/mhulse/eugene-brushes/blob/gh-pages/LICENSE |
 | Aubers Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Blaeu Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Braun Urban | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Burst Brushes Cs | DothackersDaichi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 18 | https://myphotoshopbrushes.com/resources/135/burst-brushes-cs |
+| Cazu Brushes | Pablo Cazorla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 46 | https://github.com/pablocazorla/Krita_Brushes_v3#readme |
 | Chaos & Evolutions | David Revoy, www.davidrevoy.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 42 | https://www.davidrevoy.com/data/documents/chaos-and-evolutions-brush-kit.tar.gz |
+| Cloud Alphas | WickedInsignia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://opengameart.org/content/clouds-with-transparency |
 | Crayons | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://files.kde.org/krita/extras/ |
 | De Fer Battlefield | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | De Fer Bonus | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
@@ -44,6 +47,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Deevad MyPaint v3 | David Revoy, www.davidrevoy.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 27 | https://www.davidrevoy.com/article33/mypaint-v3-brushkit |
 | Deevad MyPaint v4 | David Revoy, www.davidrevoy.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 39 | https://www.davidrevoy.com/article55/mypaint-v4-brushkit |
 | Donia Settlements | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Draneria Inks | Draneria | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 6 | https://krita-artists.org/t/inks-by-draneria/143048 |
 | Ende Littoral Edger | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://kmalexander.com/tag/brushes/ |
 | EO Bundle | EyeOdin | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 17 | https://github.com/EyeOdin/eo_bundle/blob/main/LICENSE |
 | Feathers | RussDepress | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 5 | https://myphotoshopbrushes.com/resources/3352/free-feathers-ps-brushes |
@@ -56,6 +60,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Forks & Drills Wet Noises | J. A. Gobbo, M. Couto | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 28 | https://github.com/americogobbo/forks-and-drills |
 | FX Brushes | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 6 | https://files.kde.org/krita/extras/ |
 | GIMP Extras | GIMP project | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 37 | https://download.gimp.org/pub/gimp/extras/ |
+| GIMP Paint Studio | Ramón Miranda | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 60 | https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gps-gimp-paint-studio/GPS_2_0.tar.gz |
 | Gomboust Urban | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Grunge Strokes & Splatters | Dino0040 | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/100-grunge-brushstrokes-and-splatters-set |
 | Grunge Wall | myPhotoshopBrushes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 12 | https://myphotoshopbrushes.com/resources/4254/grunge-wall-procreate-brushes |
@@ -81,7 +86,13 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Map Elements | eysselia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://opengameart.org/content/brush-and-element-for-drawing-a-map |
 | Map Making Icons | marionline | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 11 | https://opengameart.org/content/brushset-for-map-making-with-the-gimp |
 | Mercator Settlements | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Metallics | Draneria (textures: memileo) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 17 | https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes/blob/main/LICENSE |
 | MID246 Brushes | MID246 | [MIT](https://opensource.org/license/mit) | 26 | https://github.com/MID246/MIDs-Brushes/blob/main/LICENSE |
+| Mojo Ink | Saeger Ryman | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 28 | https://store.kde.org/p/1290192 |
+| Mojo Moo Draw | Saeger Ryman | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 18 | https://github.com/ink-cow/presets |
+| Mojo Moo Ink | Saeger Ryman | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 60 | https://github.com/ink-cow/presets |
+| Mojo Paint | Saeger Ryman | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 11 | https://store.kde.org/p/1290193 |
+| Mojo Tools | Saeger Ryman | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 4 | https://store.kde.org/p/1290190 |
 | Moronobu Gansai | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Moronobu Mokuhanga | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Myer Settlements | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
@@ -96,9 +107,11 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Nylnook Art Pens | Camille Bissuel | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 21 | https://github.com/nylnook/nylnook-krita-brushes |
 | Nylnook Generic Pens | Camille Bissuel | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 21 | https://github.com/nylnook/nylnook-krita-brushes |
 | Ogilby Road Atlas | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Particles & Sparkles | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/particle-pack-80-sprites |
 | Popple Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Public Domain Alphas | OpenClipart & British Library (curated) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/public-domain-alphas |
 | Qiánlóng Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Quiralta SM | RJ Quiralta | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 30 | https://store.kde.org/p/1295080 |
 | Raghukamath Pack | Raghukamath | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 29 | https://gitlab.com/raghukamath/krita-brush-presets |
 | Ramon Spray | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 14 | https://files.kde.org/krita/extras/ |
 | RGBA Brushes | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 6 | https://invent.kde.org/graphics/krita/-/tree/master/krita/data/bundles |
@@ -109,19 +122,41 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | SK Sketching | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 16 | https://files.kde.org/krita/extras/ |
 | SK3 Sketching | Ramon Miranda | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 33 | https://files.kde.org/krita/extras/SK3/ |
 | Sketch Brushes | Andrew | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 24 | https://myphotoshopbrushes.com/resources/3890/15-free-photoshop-sketch-brushes |
+| Sketch V2 | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 14 | https://files.kde.org/krita/extras/Sketch%20V2%20for%20KRITA5.zip |
+| SLOS GIMPainter | SenlinOS | [MIT](https://opensource.org/license/mit) | 66 | https://github.com/SenlinOS/SLOS-GIMPainter/blob/master/LICENSE |
 | Smoke | Jon Bee | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 6 | https://myphotoshopbrushes.com/resources/382/six-smoke-brushes |
+| Smoke & Explosions | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://opengameart.org/content/smoke-particle-assets |
 | Smudge Brushes | Stereofrenik | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 5 | https://myphotoshopbrushes.com/resources/3165/six-smudge-brushes |
+| Splat Pack | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://opengameart.org/content/splat-pack |
 | Spray Paint | Micky Hulse | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | 24 | https://github.com/mhulse/spray-paint-brushes/blob/master/LICENSE |
 | Stereofrenik Set | Stereofrenik | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 45 | https://myphotoshopbrushes.com/resources/3164/my-current-brush-set-by-stereofrenik |
 | Stitches & Sequins | Jay Versluis | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 12 | https://www.versluis.com/wp-content/uploads/2020/01/License-Procreate-Brushes.txt |
 | Sunburst Rays | myPhotoshopBrushes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 23 | https://myphotoshopbrushes.com/resources/4244/sunburst-rays-procreate-brushes |
 | TinyWorlds Brushes | TinyWorlds | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 18 | https://opengameart.org/content/gimp-brushes |
 | Van der Aa Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Vasco Aqua | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Dots | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Fibers | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Fuzzy | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Grain | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 30 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Opaque | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Organic | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Shapes | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Spots | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Thick Strokes | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Thin Strokes | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 40 | https://github.com/vascoalexander/gimp-brush-collection#readme |
+| Vasco Watercolor | Vasco Alexander Basqué | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 13 | https://github.com/vascoalexander/krita-watercolor-set/blob/master/license.txt |
 | Vienna City | myPhotoshopBrushes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 18 | https://myphotoshopbrushes.com/resources/4251/vienna-city-procreate-brushes |
 | Vintage Butterflies | All Things Precious | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 20 | https://myphotoshopbrushes.com/resources/3190/vintage-butterflies-set-1-brushes |
 | Vischer Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| WAK Basics | WAKocima (Vinny) | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 26 | https://krita-artists.org/t/181824 |
 | Walser Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Widman Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Wolthera Doodle | Wolthera van Hövell | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 6 | https://store.kde.org/p/1225929 |
+| Wolthera Inking | Wolthera van Hövell | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 18 | https://store.kde.org/p/1156641 |
+| Wolthera Painting | Wolthera van Hövell | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 20 | https://store.kde.org/p/1225927 |
+| Wolthera SFX | Wolthera van Hövell | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 19 | https://store.kde.org/p/1225928 |
+| Won't Teach You To Draw | wojtryb | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 25 | https://krita-artists.org/t/wont-teach-you-to-draw-brushpack/13299 |
 | YD Cartography | yd | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 60 | https://opengameart.org/content/cartography-brushes-for-gimp |
 | YD Cartography 2 | yd | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 25 | https://opengameart.org/content/cartography-brushes-for-gimp |
 | Zabadal Brushes | Ľubomír Zabadal | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 19 | https://github.com/americogobbo/forks-and-drills |
