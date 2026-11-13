@@ -7,23 +7,28 @@ for one-tap download inside the app. Each set keeps its original license and cre
 - GPL sets include their original source files under `sources/`. MIT / Apache notices are in `licenses/`.
 - David Revoy's sets: "This attribution is necessary in case of redistributing the pack, commercializing it, or modifying the brushes files" — credit: **David Revoy, www.davidrevoy.com**.
 
-**157 sets · 5187 brushes**
+**165 sets · 5385 brushes**
 
 | Set | Credit | License | Brushes | License statement |
 |---|---|---|---|---|
 | 18th-Century Coastlines | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://kmalexander.com/tag/brushes/ |
 | 19th-Century Mountains | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 20 | https://kmalexander.com/tag/brushes/ |
 | 60 Free Brushes | rubberduck | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/60-free-gimp-krita-brushes |
+| Adinkra (Ghana) | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 27 | https://openclipart.org/share |
 | Airbrush 2021 | Ramon Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 3 | https://files.kde.org/krita/extras/ |
 | AL Lineart | AureliaLeta | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://krita-artists.org/t/aurelia-s-lineart-comic-bundle/115126 |
 | AL Painting | AureliaLeta | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://krita-artists.org/t/al-painting-bundle/192439 |
 | AL Pencils | AureliaLeta | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 5 | https://krita-artists.org/t/aurelias-pencils-bundle/113614 |
 | Around Eugene | Micky Hulse | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) | 40 | https://github.com/mhulse/eugene-brushes/blob/gh-pages/LICENSE |
+| Art Nouveau & Flourishes | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 33 | https://openclipart.org/share |
+| Asian Patterns & Papercut | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 22 | https://openclipart.org/share |
 | Aubers Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Aztec & Mesoamerica | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 18 | https://openclipart.org/share |
 | Blaeu Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Braun Urban | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Burst Brushes Cs | DothackersDaichi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 18 | https://myphotoshopbrushes.com/resources/135/burst-brushes-cs |
 | Cazu Brushes | Pablo Cazorla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 46 | https://github.com/pablocazorla/Krita_Brushes_v3#readme |
+| Celtic & Norse | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 32 | https://openclipart.org/share |
 | Chaos & Evolutions | David Revoy, www.davidrevoy.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 42 | https://www.davidrevoy.com/data/documents/chaos-and-evolutions-brush-kit.tar.gz |
 | Christmas Silhouettes | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 49 | https://openclipart.org/share |
 | Cloud Alphas | WickedInsignia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://opengameart.org/content/clouds-with-transparency |
@@ -49,6 +54,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Deevad MyPaint v4 | David Revoy, www.davidrevoy.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | 39 | https://www.davidrevoy.com/article55/mypaint-v4-brushkit |
 | Donia Settlements | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Draneria Inks | Draneria | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 6 | https://krita-artists.org/t/inks-by-draneria/143048 |
+| East Asia Motifs | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 17 | https://openclipart.org/share |
 | Ende Littoral Edger | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 10 | https://kmalexander.com/tag/brushes/ |
 | EO Bundle | EyeOdin | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 17 | https://github.com/EyeOdin/eo_bundle/blob/main/LICENSE |
 | Feathers | RussDepress | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 5 | https://myphotoshopbrushes.com/resources/3352/free-feathers-ps-brushes |
@@ -64,6 +70,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | GIMP Extras | GIMP project | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) | 37 | https://download.gimp.org/pub/gimp/extras/ |
 | GIMP Paint Studio | Ramón Miranda | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 60 | https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/gps-gimp-paint-studio/GPS_2_0.tar.gz |
 | Gomboust Urban | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Greek Key & Arabesque Borders | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 24 | https://openclipart.org/share |
 | Grunge Strokes & Splatters | Dino0040 | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/100-grunge-brushstrokes-and-splatters-set |
 | Grunge Wall | myPhotoshopBrushes | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | 12 | https://myphotoshopbrushes.com/resources/4254/grunge-wall-procreate-brushes |
 | Hair Alphas | OwlishMedia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 60 | https://opengameart.org/content/hair-alphas-for-days |
@@ -85,6 +92,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | L'Isle Battlefield | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Lumbia Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Lunar New Year | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 41 | https://openclipart.org/share |
+| Mandala, Henna & Paisley | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 25 | https://openclipart.org/share |
 | Manga Brushes | Juankprada | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 12 | https://krita-artists.org/t/juankpradas-manga-brushes-bundle/192995 |
 | Map Elements | eysselia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 36 | https://opengameart.org/content/brush-and-element-for-drawing-a-map |
 | Map Making Icons | marionline | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 11 | https://opengameart.org/content/brushset-for-map-making-with-the-gimp |
@@ -98,6 +106,7 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | Mojo Tools | Saeger Ryman | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) | 4 | https://store.kde.org/p/1290190 |
 | Moronobu Gansai | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Moronobu Mokuhanga | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
+| Müller Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | Myer Settlements | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | MyPaint Classic | MyPaint contributors | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 34 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
 | MyPaint Deevad | David Revoy, www.davidrevoy.com | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 32 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
@@ -106,7 +115,6 @@ for one-tap download inside the app. Each set keeps its original license and cre
 | MyPaint Kaerhon | Kaerhon | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 20 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
 | MyPaint Ramón | Ramón Miranda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 26 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
 | MyPaint Tanda | Tanda | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 35 | https://github.com/mypaint/mypaint-brushes/blob/master/Licenses.dep5 |
-| Müller Cartography | K. M. Alexander | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 50 | https://kmalexander.com/tag/brushes/ |
 | New Year Party | Openclipart contributors (openclipart.org) | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 30 | https://openclipart.org/share |
 | Nylnook Art Pens | Camille Bissuel | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 21 | https://github.com/nylnook/nylnook-krita-brushes |
 | Nylnook Generic Pens | Camille Bissuel | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | 21 | https://github.com/nylnook/nylnook-krita-brushes |
